@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
+            <state relative-caret-position="123">
+              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,6 +87,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AulaJava_12nov19_Testes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -102,7 +105,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573588204674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573588438423" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,9 +224,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTeste_naoDeveRetornar2 - 2019.11.12 at 17h 14m 17s.xml">
-      <configuration name="AppTeste.naoDeveRetornar2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 24m 48s.xml">
       <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
     </history-entry>
@@ -251,17 +251,19 @@
     <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 48m 38s.xml">
       <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 50m 06s.xml">
+      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -269,7 +271,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
+        <state relative-caret-position="123">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
