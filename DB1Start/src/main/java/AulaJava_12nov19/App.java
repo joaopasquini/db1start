@@ -15,8 +15,6 @@ public class App {
     
     public static void main (String[] args){
         // Exercicio Inteiros
-        
-        
         Scanner scan = new Scanner(System.in);
         
         System.out.println("Digite o primeiro numero: ");
@@ -103,6 +101,18 @@ public class App {
                 System.out.println(valor3+" é o menor");
             }
         }
+    }
+    
+    // Representação dos métodos do exercício 3 porém como funções que retornam Double.
+    public static Double encontrarMenorValorF(double valor1, double valor2){
+        if(valor1 < valor2){
+            return valor1;
+        }
+        return valor2;
+    }
+    
+    public static Double encontrarMenorValorF(double valor1, double valor2, double valor3){
+        return encontrarMenorValorF(encontrarMenorValorF(valor1,valor2),valor3);
     }
     
     
