@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package AulaJava_11nov19;
+package AulaJava_12nov19;
 
 /**
  *
  * @author alunos
  */
-public class ExercicioInteiro {
+public class App {
     
 }
