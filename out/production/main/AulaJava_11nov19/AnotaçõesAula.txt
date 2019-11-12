@@ -1,0 +1,80 @@
+Aula 11novembro
+---------------------
+
+Linguagem Java
+
+- Criada na década de 90
+- Objetivo de ser uma linguagem multiplataforma e orientada a objetos
+- Java Virtual Machine(JVM) ; criação de uma máquina virtual que rodará as aplicações JAVA, maneira para torná-la uma linguagem multiplataforma.
+- Java Runtime Enviroment(JRE) ; instalação da JVM e das bibliotecas necessárias no SO para rodar aplicações.
+- Java Development Kit (JDK) ; instalação da JVM, JRE + bibliotecas e compiladores necessários para realizar atividades de desenvolvimento utilizando a linguagem Java.
+
+
+Organização do Projeto Java
+
+- Utilização de Pacotes(Packages) para organização dos arquivos
+- Criação de Classes dentro dos pacotes ; toda classe deve estar preferencialmente dentro de um pacote(boa prática).
+- Classes que possuem execução possuem o método main.
+- db1.db1start
+
+- Criação Pacote com.db1.db1start
+- Criação Classe App
+- public static void main (String[] args) {}
+
+
+Variáveis
+
+- Variaveis possuem acesso/tipo/nome
+- Nome das variáveis deve representar fácilmente o que aquela variável representa. Um nome correto irá facilitar no entendimento, revisão e manutenção do código.
+- Acesso: Private/Public/Protected , especifica a segurança daquela váriavel, filtrando quem poderá acessar seu conteúdo.
+- Tipos: integer,float,char,boolean... Tipos Primitivos
+- Diferença entre o tipo int e integer. Funções do integer não se aplicam totalmente ao int.
+- Integer numero1, numero2; Declaração das varíaveis, computador reserva um endereço na memória para aquelas variaveis. Porem, como nao houve atribuicao elas ainda não foram inicializadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+Numéricos:
+TINYINT — número inteiro muito pequeno (tiny);
+SMALLINT — número inteiro pequeno;
+MEDIUMINT — número inteiro de tamanho médio;
+INT — número inteiro de tamanho comum;
+BIGINT — número inteiro de tamanho grande;
+DECIMAL — número decimal, de ponto fixo;
+FLOAT — número de ponto flutuante de precisão simples (32 bits);
+DOUBLE — número de ponto flutuante de precisão dupla (64 bits);
+BIT — um campo de um bit.
+
+Caractere:
+CHAR — uma cadeia de caracteres (string), de tamanho fixo e não-binária;
+VARCHAR — uma string de tamanho variável e não-binária;
+BINARY — uma string binária de tamanho fixo;
+VARBINARY — uma string binária de tamanho variável;
+BLOB — um BLOB (Binary Large OBject – OBjeto Grande Binário) pequeno;
+TINYBLOB — um BLOB muito pequeno;
+MEDIUMBLOB — um BLOB de tamanho médio;
+LONGBLOB — um BLOB grande;
+TINYTEXT — uma string não-binária e de tamanho bem reduzido;
+TEXT — uma string não-binária e pequena;
+MEDIUMTEXT — uma string de tamanho comum e não-binária;
+LONGTEXT — uma string não-binária de tamanho grande;
+ENUM — de acordo com o manual do MySQL, é uma string, com um valor que precisa ser selecionado de uma lista predefinida na criação da tabela;
+SET — é um objeto que pode ter zero ou mais valores – cada um dos quais precisa ser escolhido de uma lista de valores predeterminados quando da criação da tabela.
+
+Data e hora:
+DATE — o valor referente a uma data no formato 'CCYY-MM-DD'. Por exemplo 1985-11-25 (ano-mês-dia). O 'CC' se refere aos dois dígitos do século (Century, em inglês);
+TIME — um valor horário no formato 'hh:mm:ss' (hora:minutos:segundos);
+TIMESTAMP — timestamp é uma sequência de caracteres ou informação codificada que identifica uma marca temporal ou um dado momento em que um evento ocorreu. No MySQL, ele tem o formato 'CCYY-MM-DD hh:mm:ss' – neste caso, seguem a padronização ISO 8601;
+YEAR — armazena um ano no formato 'CCYY' ou 'YY';
