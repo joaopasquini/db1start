@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,26 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding>
-                <element signature="method#encontrarMenorValor#0;class#App#0" />
-                <element signature="method#encontrarMenorValor#1;class#App#0" />
-                <element signature="method#encontrarMenorValorF#0;class#App#0" />
-                <element signature="method#encontrarMenorValorF#1;class#App#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="208">
+              <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +29,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="174">
+              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +58,8 @@
       <list>
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/Application.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/AppTeste.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" />
       </list>
     </option>
   </component>
@@ -101,18 +90,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_12nov19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_12nov19_Testes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -125,7 +102,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573585409575" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573588204674" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,21 +116,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTeste">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19.App" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AppTeste.StringReversa">
+    <configuration name="AppTeste.StringReversa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -163,15 +127,83 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="StringReversa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.contarQuantidadeDeCaracteresNaString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
+      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
+      <option name="METHOD_NAME" value="contarQuantidadeDeCaracteresNaString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.contarQuantidadeDeImparesDe100Ate100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
+      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
+      <option name="METHOD_NAME" value="contarQuantidadeDeImparesDe100Ate100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
+      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
+      <option name="METHOD_NAME" value="contarQuantidadeDeImparesDe10Ate100" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.naoDeveRetornar2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
+      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
+      <option name="METHOD_NAME" value="naoDeveRetornar2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTeste" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTeste.StringReversa" />
+        <item itemvalue="JUnit.AppTeste.contarQuantidadeDeCaracteresNaString" />
+        <item itemvalue="JUnit.AppTeste.contarQuantidadeDeImparesDe100Ate100" />
+        <item itemvalue="JUnit.AppTeste.contarQuantidadeDeImparesDe10Ate100" />
+        <item itemvalue="JUnit.AppTeste.naoDeveRetornar2" />
       </list>
     </recent_temporary>
   </component>
@@ -189,22 +221,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTeste - 2019.11.12 at 16h 58m 26s.xml">
-      <configuration name="AppTeste" configurationId="JUnit" />
+    <history-entry file="AppTeste_naoDeveRetornar2 - 2019.11.12 at 17h 14m 17s.xml">
+      <configuration name="AppTeste.naoDeveRetornar2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste - 2019.11.12 at 17h 01m 04s.xml">
-      <configuration name="AppTeste" configurationId="JUnit" />
+    <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 24m 48s.xml">
+      <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 24m 58s.xml">
+      <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 25m 31s.xml">
+      <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_contarQuantidadeDeImparesDe100Ate100 - 2019.11.12 at 17h 25m 59s.xml">
+      <configuration name="AppTeste.contarQuantidadeDeImparesDe100Ate100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_contarQuantidadeDeCaracteresNaString - 2019.11.12 at 17h 31m 13s.xml">
+      <configuration name="AppTeste.contarQuantidadeDeCaracteresNaString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 43m 32s.xml">
+      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 44m 38s.xml">
+      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 47m 32s.xml">
+      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 48m 38s.xml">
+      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -212,7 +269,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -246,19 +303,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="174">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="208">
+          <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
