@@ -35,6 +35,7 @@ public class App {
         System.out.println("Palavra em Maisculo ==> "+palavraMaiuscula);
         System.out.println("Palavra em Minusculo ==> "+palavraMinuscula);
         System.out.println("---------------------------------------------");
+        
         // Exercicio Double
         System.out.println("Digite o primeiro numero(double): ");
         double valor1 = scan.nextDouble();
@@ -48,6 +49,8 @@ public class App {
         encontrarMenorValor(valor1, valor2,valor3);
         
     }
+    
+    
     
     public static void encontrarMenorValor(double valor1,double valor2){
         System.out.println("Comparação entre "+valor1+" e "+valor2+" : ");
