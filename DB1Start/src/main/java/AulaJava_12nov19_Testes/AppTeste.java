@@ -7,12 +7,11 @@ import org.junit.Test;
 
 public class AppTeste {
 
+     Application application = new Application();
 
     //Testes de Integer
-
     @Test
     public void deveRetornar8() {
-        Application application = new Application();
         Integer expected = 8;
         Integer response = application.soma(5,3);
         Assert.assertEquals(expected, response);
@@ -20,7 +19,6 @@ public class AppTeste {
 
     @Test
     public void naoDeveRetornar6() {
-        Application application = new Application();
         Integer expected = 6;
         Integer response = application.subtrair(8,3);
         Assert.assertNotEquals(expected, response);
@@ -28,14 +26,9 @@ public class AppTeste {
 
     @Test
     public void QuantidadeDeImparesAte0(){
-        Application application = new Application();
-
         Integer expected = 0;
-
         Integer response = application.contarNumeroDeImparesSL(0);
-
         Assert.assertEquals(expected,response);
-
     }
 
     @Test
@@ -102,6 +95,22 @@ public class AppTeste {
         Application application = new Application();
         String expected = "banana\nmaçã\nmelancia";
         String response = application.quebrarStringEmLinhas("banana, maçã, melancia");
+        Assert.assertEquals(expected,response);
+    }
+
+    @Test
+    public void mostrarApenasPalavraTart(){
+        Application application = new Application();
+        String expected = "Tart";
+        String response = application.mostrarApenasUltimasQuatroLetras("Db1sTart");
+        Assert.assertEquals(expected,response);
+    }
+
+    @Test
+    public void mostrarApenasPalavraDb1s(){
+        Application application = new Application();
+        String expected = "Db1s";
+        String response = application.mostrarApenasPrimeirasQuatroLetras("Db1sTart");
         Assert.assertEquals(expected,response);
     }
 

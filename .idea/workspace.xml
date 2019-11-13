@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/AppTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/AppTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/Application.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,43 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="101" column="52" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#deveRetornar8#0;class#AppTeste#0" />
-                <element signature="method#naoDeveRetornar6#0;class#AppTeste#0" />
-                <element signature="method#contarQuantidadeDeImpares#0;class#AppTeste#0" />
-                <element signature="method#numeroDeImparesAteO100#0;class#AppTeste#0" />
-                <element signature="method#contarQuantidadeDeCaracteresNaString#0;class#AppTeste#0" />
-                <element signature="method#StringReversa#0;class#AppTeste#0" />
-                <element signature="method#mostrarAlunoDb1Start#0;class#AppTeste#0" />
-                <element signature="method#contar10Vogais#0;class#AppTeste#0" />
-                <element signature="method#menorValorEntreOpostos#0;class#AppTeste#0" />
-                <element signature="method#menorValorEntreOpostos#1;class#AppTeste#0" />
-                <element signature="method#mediaEntreNumerosIguais#0;class#AppTeste#0" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AppTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="121" column="50" selection-start-line="121" selection-start-column="50" selection-end-line="121" selection-end-column="50" />
+            <state relative-caret-position="255">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
               <folding>
-                <element signature="method#numeroDeImpares#0;class#Application#0" />
-                <element signature="method#contarNumeroDeImparesAteNumero#0;class#Application#0" />
-                <element signature="method#inverterString#1;class#Application#0" />
-                <element signature="method#contarQuantidadeDeCaracteres#0;class#Application#0" />
-                <element signature="method#trocarPrimeiroNomePorAluno#0;class#Application#0" />
-                <element signature="method#contrarQuantidadeDeVogais#0;class#Application#0" />
-                <element signature="method#encontrarMenorValorF#0;class#Application#0" />
-                <element signature="method#encontrarMenorValorF#0;class#Application#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +67,8 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/AppTeste.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/Application.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AppTeste.java" />
       </list>
     </option>
   </component>
@@ -104,18 +98,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_12nov19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_12nov19_Testes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -129,8 +111,14 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573671104917" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573674017862" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AulaJava_13nov19_ResolucaoTestesProfs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTeste.separarTextoEm3Linhas">
+  <component name="RunManager" selected="JUnit.AppTeste.deveRetornarSequenciaDePalavrasSeparadas">
     <configuration name="AppTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
@@ -160,23 +148,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTeste.contar10Vogais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.deveRetornarSequenciaDePalavrasSeparadas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
+          <option name="PATTERN" value="AulaJava_13nov19_ResolucaoTestesProfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="contar10Vogais" />
+      <option name="PACKAGE_NAME" value="AulaJava_13nov19_ResolucaoTestesProfs" />
+      <option name="MAIN_CLASS_NAME" value="AulaJava_13nov19_ResolucaoTestesProfs.AppTeste" />
+      <option name="METHOD_NAME" value="deveRetornarSequenciaDePalavrasSeparadas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTeste.mediaEntreNumerosIguais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.mostrarApenasPalavraDb1s" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -186,13 +174,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="mediaEntreNumerosIguais" />
+      <option name="METHOD_NAME" value="mostrarApenasPalavraDb1s" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTeste.mostrarAlunoDb1Start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.mostrarApenasPalavraTart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -202,7 +190,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="mostrarAlunoDb1Start" />
+      <option name="METHOD_NAME" value="mostrarApenasPalavraTart" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTeste.separarTextoEm3Linhas" />
+        <item itemvalue="JUnit.AppTeste.deveRetornarSequenciaDePalavrasSeparadas" />
         <item itemvalue="JUnit.AppTeste" />
-        <item itemvalue="JUnit.AppTeste.mediaEntreNumerosIguais" />
-        <item itemvalue="JUnit.AppTeste.contar10Vogais" />
-        <item itemvalue="JUnit.AppTeste.mostrarAlunoDb1Start" />
+        <item itemvalue="JUnit.AppTeste.mostrarApenasPalavraDb1s" />
+        <item itemvalue="JUnit.AppTeste.mostrarApenasPalavraTart" />
+        <item itemvalue="JUnit.AppTeste.separarTextoEm3Linhas" />
       </list>
     </recent_temporary>
   </component>
@@ -248,42 +236,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 34m 57s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 06s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 31s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 37s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 46s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 41m 24s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 43m 40s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 46m 04s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 46m 35s.xml">
-      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 47m 39s.xml">
       <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 49m 18s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 49m 58s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 50m 28s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 50m 56s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_mostrarApenasPalavraTart - 2019.11.13 at 16h 56m 41s.xml">
+      <configuration name="AppTeste.mostrarApenasPalavraTart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_mostrarApenasPalavraTart - 2019.11.13 at 16h 59m 49s.xml">
+      <configuration name="AppTeste.mostrarApenasPalavraTart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_mostrarApenasPalavraTart - 2019.11.13 at 17h 00m 07s.xml">
+      <configuration name="AppTeste.mostrarApenasPalavraTart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_mostrarApenasPalavraDb1s - 2019.11.13 at 17h 02m 13s.xml">
+      <configuration name="AppTeste.mostrarApenasPalavraDb1s" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTeste_deveRetornarSequenciaDePalavrasSeparadas - 2019.11.13 at 17h 39m 58s.xml">
+      <configuration name="AppTeste.deveRetornarSequenciaDePalavrasSeparadas" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +279,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -330,38 +317,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="121" column="50" selection-start-line="121" selection-start-column="50" selection-end-line="121" selection-end-column="50" />
+        <state relative-caret-position="1241">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
           <folding>
-            <element signature="method#numeroDeImpares#0;class#Application#0" />
             <element signature="method#contarNumeroDeImparesAteNumero#0;class#Application#0" />
-            <element signature="method#inverterString#1;class#Application#0" />
             <element signature="method#contarQuantidadeDeCaracteres#0;class#Application#0" />
             <element signature="method#trocarPrimeiroNomePorAluno#0;class#Application#0" />
             <element signature="method#contrarQuantidadeDeVogais#0;class#Application#0" />
-            <element signature="method#encontrarMenorValorF#0;class#Application#0" />
-            <element signature="method#encontrarMenorValorF#0;class#Application#0" />
+            <element signature="method#quebrarStringEmLinhas#0;class#Application#0" />
+            <element signature="method#mostrarApenasUltimasQuatroLetras#0;class#Application#0" />
+            <element signature="method#mostrarApenasPrimeirasQuatroLetras#0;class#Application#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="101" column="52" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#deveRetornar8#0;class#AppTeste#0" />
-            <element signature="method#naoDeveRetornar6#0;class#AppTeste#0" />
-            <element signature="method#contarQuantidadeDeImpares#0;class#AppTeste#0" />
             <element signature="method#numeroDeImparesAteO100#0;class#AppTeste#0" />
             <element signature="method#contarQuantidadeDeCaracteresNaString#0;class#AppTeste#0" />
             <element signature="method#StringReversa#0;class#AppTeste#0" />
             <element signature="method#mostrarAlunoDb1Start#0;class#AppTeste#0" />
             <element signature="method#contar10Vogais#0;class#AppTeste#0" />
+            <element signature="method#separarTextoEm3Linhas#0;class#AppTeste#0" />
             <element signature="method#menorValorEntreOpostos#0;class#AppTeste#0" />
-            <element signature="method#menorValorEntreOpostos#1;class#AppTeste#0" />
             <element signature="method#mediaEntreNumerosIguais#0;class#AppTeste#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AppTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

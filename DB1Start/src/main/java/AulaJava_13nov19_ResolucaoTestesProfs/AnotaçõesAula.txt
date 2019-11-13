@@ -1,0 +1,54 @@
+13nov --------
+
+
+- Foi continuada a resolução dos testes
+- Estudar melhor o que pode ser refatorado. Declaração da variavel tipo Application não era necessária em todos os testes, apenas uma vez na classe.
+- AssertEquals para double, pode utilizar-se um terceiro parâmetro especificando qual tamanho de residuo flutuante é aceitável.
+- Refatoração de métodos, selecionar código CRTL ALT N. Ex Criou o método isImpar a partir do exercicio de contar numeros impares. 
+- IF ternário :  expressão ? true : false;
+
+
+-----------------------------------------------------------
+** Resolução do desafio dos numeros Impares pelo prof Maiko:
+
+
+ public integer quantidadeDeImpares(Integer valor) {
+     return isImpar(valor) ? valor/2+1 : valor/2;
+}
+-----------------------------------------------------------
+
+-------------------------------------------------------------
+** Resolução Exercicio 10 banana,maça,melancia
+
+
+public void retornarPalavrasSeparadas(String valor){
+
+  return valor.split(", ");
+   
+
+}
+
+@Test
+public void deveRetornarSequenciaDePalavrasSeparadas(){
+
+   String[] esperado = new String[] {"Banana","maçã","melancia"};
+   String [] resultado = application.retornarPalavrasSeparadas("Banana, maçã, melancia");
+
+  Assert.assertArrayEquals(esperado, resultado);
+    
+
+}
+
+---------------------------------------------------------
+
+**Resolução exercicio quantidadeDeLetras
+
+
+public int quantidadeDeLetrasDB1Start(){
+        String palavra = "DB1Start";
+        return removeNumerosDaString(palavra).length();
+    }
+
+    public String removeNumerosDaString(String palavra){
+        return palavra.replaceAll("[0-9]","");
+    }

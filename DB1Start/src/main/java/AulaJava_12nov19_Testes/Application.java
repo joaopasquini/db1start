@@ -1,5 +1,7 @@
 package AulaJava_12nov19_Testes;
 
+import javax.management.RuntimeErrorException;
+
 public class Application {
 
     // Integer
@@ -117,4 +119,16 @@ public class Application {
         }
         return novoTexto;
     }
+
+    public String mostrarApenasUltimasQuatroLetras(String nomeCompleto) {
+        if (nomeCompleto.length() < 4) throw new RuntimeException();
+        return nomeCompleto.substring(nomeCompleto.length()-4,nomeCompleto.length());
+    }
+
+    public String mostrarApenasPrimeirasQuatroLetras(String nomeCompleto){
+        if (nomeCompleto.length() < 4) throw new RuntimeException();
+        return nomeCompleto.substring(0,4);
+    }
+
+
 }
