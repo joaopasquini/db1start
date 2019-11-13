@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="" />
+    <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AulaJava_11nov19/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AulaJava_11nov19/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/AppTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/AppTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AulaJava_12nov19_Testes/Application.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,14 +18,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+            <state relative-caret-position="157">
+              <caret line="131" column="47" lean-forward="true" selection-start-line="131" selection-start-column="47" selection-end-line="131" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#deveRetornar8#0;class#AppTeste#0" />
+                <element signature="method#naoDeveRetornar6#0;class#AppTeste#0" />
+                <element signature="method#contarQuantidadeDeImpares#0;class#AppTeste#0" />
+                <element signature="method#numeroDeImparesAteO100#0;class#AppTeste#0" />
+                <element signature="method#contarQuantidadeDeCaracteresNaString#0;class#AppTeste#0" />
+                <element signature="method#StringReversa#0;class#AppTeste#0" />
+                <element signature="method#mostrarAlunoDb1Start#0;class#AppTeste#0" />
+                <element signature="method#contar10Vogais#0;class#AppTeste#0" />
+                <element signature="method#menorValorEntreOpostos#0;class#AppTeste#0" />
+                <element signature="method#menorValorEntreOpostos#1;class#AppTeste#0" />
               </folding>
             </state>
           </provider>
@@ -26,13 +44,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+            <state relative-caret-position="192">
+              <caret line="102" column="10" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
+                <element signature="method#numeroDeImpares#0;class#Application#0" />
+                <element signature="method#contarNumeroDeImparesAteNumero#0;class#Application#0" />
+                <element signature="method#inverterString#1;class#Application#0" />
+                <element signature="method#contarQuantidadeDeCaracteres#0;class#Application#0" />
+                <element signature="method#trocarPrimeiroNomePorAluno#0;class#Application#0" />
+                <element signature="method#contrarQuantidadeDeVogais#0;class#Application#0" />
+                <element signature="method#encontrarMenorValorF#0;class#Application#0" />
+                <element signature="method#encontrarMenorValorF#0;class#Application#0" />
               </folding>
             </state>
           </provider>
@@ -55,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/Application.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/AppTeste.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" />
       </list>
     </option>
   </component>
@@ -74,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,12 +112,19 @@
               <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AulaJava_12nov19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="AulaJava_12nov19_Testes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -105,7 +133,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573588438423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573666729830" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,8 +148,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTeste.StringReversa">
-    <configuration name="AppTeste.StringReversa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AppTeste.mediaEntreNumerosIguais">
+    <configuration name="AppTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +159,28 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="StringReversa" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.contar10Vogais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
+      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
+      <option name="METHOD_NAME" value="contar10Vogais" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTeste.contarQuantidadeDeCaracteresNaString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.mediaEntreNumerosIguais" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -146,13 +190,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="contarQuantidadeDeCaracteresNaString" />
+      <option name="METHOD_NAME" value="mediaEntreNumerosIguais" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTeste.contarQuantidadeDeImparesDe100Ate100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.menorValorEntre3Valores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -162,13 +206,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="contarQuantidadeDeImparesDe100Ate100" />
+      <option name="METHOD_NAME" value="menorValorEntre3Valores" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.mostrarAlunoDb1Start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -178,23 +222,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
       <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="contarQuantidadeDeImparesDe10Ate100" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTeste.naoDeveRetornar2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AulaJava_12nov19_Testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_12nov19_Testes" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_12nov19_Testes.AppTeste" />
-      <option name="METHOD_NAME" value="naoDeveRetornar2" />
+      <option name="METHOD_NAME" value="mostrarAlunoDb1Start" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -202,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTeste.StringReversa" />
-        <item itemvalue="JUnit.AppTeste.contarQuantidadeDeCaracteresNaString" />
-        <item itemvalue="JUnit.AppTeste.contarQuantidadeDeImparesDe100Ate100" />
-        <item itemvalue="JUnit.AppTeste.contarQuantidadeDeImparesDe10Ate100" />
-        <item itemvalue="JUnit.AppTeste.naoDeveRetornar2" />
+        <item itemvalue="JUnit.AppTeste.mediaEntreNumerosIguais" />
+        <item itemvalue="JUnit.AppTeste" />
+        <item itemvalue="JUnit.AppTeste.contar10Vogais" />
+        <item itemvalue="JUnit.AppTeste.mostrarAlunoDb1Start" />
+        <item itemvalue="JUnit.AppTeste.menorValorEntre3Valores" />
       </list>
     </recent_temporary>
   </component>
@@ -224,51 +252,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 24m 48s.xml">
-      <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
+    <history-entry file="AppTeste_menorValorEntreOpostos - 2019.11.13 at 14h 55m 09s.xml">
+      <configuration name="AppTeste.menorValorEntreOpostos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 24m 58s.xml">
-      <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
+    <history-entry file="AppTeste_menorValorEntre3Valores - 2019.11.13 at 14h 56m 12s.xml">
+      <configuration name="AppTeste.menorValorEntre3Valores" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_contarQuantidadeDeImparesDe10Ate100 - 2019.11.12 at 17h 25m 31s.xml">
-      <configuration name="AppTeste.contarQuantidadeDeImparesDe10Ate100" configurationId="JUnit" />
+    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 11m 35s.xml">
+      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_contarQuantidadeDeImparesDe100Ate100 - 2019.11.12 at 17h 25m 59s.xml">
-      <configuration name="AppTeste.contarQuantidadeDeImparesDe100Ate100" configurationId="JUnit" />
+    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 11m 54s.xml">
+      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_contarQuantidadeDeCaracteresNaString - 2019.11.12 at 17h 31m 13s.xml">
-      <configuration name="AppTeste.contarQuantidadeDeCaracteresNaString" configurationId="JUnit" />
+    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 13m 19s.xml">
+      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 43m 32s.xml">
-      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 14m 37s.xml">
+      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 44m 38s.xml">
-      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 14m 52s.xml">
+      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 47m 32s.xml">
-      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 15m 13s.xml">
+      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 48m 38s.xml">
-      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    <history-entry file="AppTeste_contar10Vogais - 2019.11.13 at 15h 25m 45s.xml">
+      <configuration name="AppTeste.contar10Vogais" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_StringReversa - 2019.11.12 at 17h 50m 06s.xml">
-      <configuration name="AppTeste.StringReversa" configurationId="JUnit" />
+    <history-entry file="AppTeste - 2019.11.13 at 15h 25m 50s.xml">
+      <configuration name="AppTeste" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3293718" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
@@ -276,14 +301,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3293718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -292,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="293">
+          <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="117" selection-end-column="5" />
           <folding>
             <element signature="method#encontrarMenorValor#0;class#App#0" />
             <element signature="method#encontrarMenorValor#1;class#App#0" />
@@ -305,23 +334,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        <state relative-caret-position="192">
+          <caret line="102" column="10" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
+            <element signature="method#numeroDeImpares#0;class#Application#0" />
+            <element signature="method#contarNumeroDeImparesAteNumero#0;class#Application#0" />
+            <element signature="method#inverterString#1;class#Application#0" />
+            <element signature="method#contarQuantidadeDeCaracteres#0;class#Application#0" />
+            <element signature="method#trocarPrimeiroNomePorAluno#0;class#Application#0" />
+            <element signature="method#contrarQuantidadeDeVogais#0;class#Application#0" />
+            <element signature="method#encontrarMenorValorF#0;class#Application#0" />
+            <element signature="method#encontrarMenorValorF#0;class#Application#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        <state relative-caret-position="157">
+          <caret line="131" column="47" lean-forward="true" selection-start-line="131" selection-start-column="47" selection-end-line="131" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#deveRetornar8#0;class#AppTeste#0" />
+            <element signature="method#naoDeveRetornar6#0;class#AppTeste#0" />
+            <element signature="method#contarQuantidadeDeImpares#0;class#AppTeste#0" />
+            <element signature="method#numeroDeImparesAteO100#0;class#AppTeste#0" />
+            <element signature="method#contarQuantidadeDeCaracteresNaString#0;class#AppTeste#0" />
+            <element signature="method#StringReversa#0;class#AppTeste#0" />
+            <element signature="method#mostrarAlunoDb1Start#0;class#AppTeste#0" />
+            <element signature="method#contar10Vogais#0;class#AppTeste#0" />
+            <element signature="method#menorValorEntreOpostos#0;class#AppTeste#0" />
+            <element signature="method#menorValorEntreOpostos#1;class#AppTeste#0" />
           </folding>
         </state>
       </provider>

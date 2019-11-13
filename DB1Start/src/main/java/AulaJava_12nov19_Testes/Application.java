@@ -2,6 +2,8 @@ package AulaJava_12nov19_Testes;
 
 public class Application {
 
+    // Integer
+
     public Integer soma(Integer numero1, Integer numero2){
         return numero1+numero2;
     }
@@ -10,7 +12,7 @@ public class Application {
         return numero1-numero2;
     }
 
-    public Integer numeroDeImpares(int numeroInicial) {
+    public Integer contarNumeroDeImparesSL(int numeroInicial) {
         int contador = 0;
 
         if(numeroInicial > 0){
@@ -27,10 +29,15 @@ public class Application {
         return contador;
     }
 
-    public Integer contarQuantidadeDeCaracteres(String palavra) {
-        Integer numeroDeCaracteres = palavra.length();
-        return numeroDeCaracteres;
+    public Integer contarNumeroDeImparesAteNumero(Integer numero) {
+        if(numero < 0) {
+            return (numero-1)/-2;
+        }
+        return (numero+1)/2;
     }
+
+
+    // String
 
     public String inverterString(String palavra) {
 
@@ -42,27 +49,59 @@ public class Application {
 
         return teste;
     }
-    
-    public Integer contarNumeroDeImparesAteNumero(Integer numero) {
-    	if(numero < 0) {
-    		return numero+1/-2;
-    	}
-    	return numero/2;	
+
+    public Integer contarQuantidadeDeCaracteres(String palavra) {
+        Integer numeroDeCaracteres = palavra.length();
+        return numeroDeCaracteres;
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+    public String trocarPrimeiroNomePorAluno(String nome) {
+
+        int posicaoEspaco = 0;
+        String novoNome = "Aluno ";
+
+        for(int i = 0 ; i < nome.length()-1 ; i++){
+            if(nome.charAt(i) == ' ' && i != 0){
+               posicaoEspaco = i+1;
+               break;
+            }
+        }
+        if(posicaoEspaco == 0) return null;
+
+        return novoNome.concat(nome.substring(posicaoEspaco,nome.length()));
+    }
+
+    public Integer contrarQuantidadeDeVogais(String texto) {
+        texto = texto.toLowerCase();
+        Integer contadorDeVogais = 0;
+        char c;
+
+        for( int i = 0 ; i < texto.length() ; i++){
+            c = texto.charAt(i);
+            if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'){
+                contadorDeVogais +=1;
+            }
+        }
+
+        return contadorDeVogais;
+    }
+
+
+    // Double
+
+    public static Double encontrarMenorValor2Valores(double valor1, double valor2){
+        if(valor1 < valor2){
+            return valor1;
+        }
+        return valor2;
+    }
+
+    public static Double encontrarMenorValor3Valores(double valor1, double valor2, double valor3){
+        return encontrarMenorValor2Valores(encontrarMenorValor2Valores(valor1,valor2),valor3);
+    }
+
+    public Double calcularMedia3Numeros(double v, double v1, double v2) {
+        return (v+v1+v2)/3;
+    }
+
 }
