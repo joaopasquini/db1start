@@ -42,4 +42,27 @@ public class Application {
 
         return teste;
     }
+    
+    public Integer contarNumeroDeImparesAteNumero(Integer numero) {
+    	if(numero < 0) {
+    		return numero+1/-2;
+    	}
+    	return numero/2;	
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }

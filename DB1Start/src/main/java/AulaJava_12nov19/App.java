@@ -17,7 +17,7 @@ public class App {
         // Exercicio Inteiros
         Scanner scan = new Scanner(System.in);
         
-        System.out.println("Digite o primeiro numero: ");
+        /* System.out.println("Digite o primeiro numero: ");
         Integer numero1 = scan.nextInt();
         System.out.println("Digite o segundo numero: ");
         Integer numero2 = scan.nextInt();
@@ -42,6 +42,12 @@ public class App {
         
         encontrarMenorValor(valor1, valor2);
         encontrarMenorValor(valor1, valor2,valor3);
+        
+        */
+        
+        float Resto = 5/2f; 
+        
+        System.out.println(Resto);
         
     }
     

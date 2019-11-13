@@ -68,5 +68,16 @@ public class AppTeste {
 
 
     }
+    
+    @Test
+    public void numeroDeImparesAteO100() {
+    	
+    	Application application = new Application();
+    	
+    	Integer expected = 0;
+    	
+    	Assert.assertEquals(expected, application.contarNumeroDeImparesAteNumero(22));
+    	
+    }
 
 }
