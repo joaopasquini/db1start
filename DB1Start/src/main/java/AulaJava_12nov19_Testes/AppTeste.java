@@ -100,7 +100,15 @@ public class AppTeste {
     @Test
     public void separarTextoEm3Linhas(){
         Application application = new Application();
-        
+
+        String expected = "banana\n maçã\n melancia\n";
+
+        String response = application.quebrarStringEmLinhas("banana, maçã, melancia");
+
+        Assert.assertEquals(expected,response);
+
+
+
     }
 
     // Testes de Double
