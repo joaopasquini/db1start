@@ -106,12 +106,13 @@ public class Application {
 
     public String quebrarStringEmLinhas(String texto) {
         String novoTexto = "";
-        Integer comecoDaPalavra = 0;
         for(int contador = 0; contador<texto.length() ; contador++){
             if(texto.charAt(contador) == ','){
-                novoTexto.concat(texto.substring(comecoDaPalavra,contador-1));
-                novoTexto.concat("\n ");
-                comecoDaPalavra = contador+2;
+                novoTexto += "\n";
+                contador+=1;
+            }
+            else{
+                novoTexto += texto.charAt(contador);
             }
         }
         return novoTexto;

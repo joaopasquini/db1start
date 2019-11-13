@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
+            <state relative-caret-position="123">
+              <caret line="101" column="52" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#deveRetornar8#0;class#AppTeste#0" />
@@ -40,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+            <state relative-caret-position="293">
+              <caret line="121" column="50" selection-start-line="121" selection-start-column="50" selection-end-line="121" selection-end-column="50" />
               <folding>
                 <element signature="method#numeroDeImpares#0;class#Application#0" />
                 <element signature="method#contarNumeroDeImparesAteNumero#0;class#Application#0" />
@@ -129,7 +129,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573667933073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573671104917" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -227,8 +227,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AppTeste.separarTextoEm3Linhas" />
-        <item itemvalue="JUnit.AppTeste.mediaEntreNumerosIguais" />
         <item itemvalue="JUnit.AppTeste" />
+        <item itemvalue="JUnit.AppTeste.mediaEntreNumerosIguais" />
         <item itemvalue="JUnit.AppTeste.contar10Vogais" />
         <item itemvalue="JUnit.AppTeste.mostrarAlunoDb1Start" />
       </list>
@@ -248,35 +248,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 11m 54s.xml">
-      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 34m 57s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 13m 19s.xml">
-      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 06s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 14m 37s.xml">
-      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 31s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 14m 52s.xml">
-      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 37s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mostrarAlunoDb1Start - 2019.11.13 at 15h 15m 13s.xml">
-      <configuration name="AppTeste.mostrarAlunoDb1Start" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 35m 46s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_contar10Vogais - 2019.11.13 at 15h 25m 45s.xml">
-      <configuration name="AppTeste.contar10Vogais" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 41m 24s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste - 2019.11.13 at 15h 25m 50s.xml">
-      <configuration name="AppTeste" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 43m 40s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mediaEntreNumerosIguais - 2019.11.13 at 15h 35m 58s.xml">
-      <configuration name="AppTeste.mediaEntreNumerosIguais" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 46m 04s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mediaEntreNumerosIguais - 2019.11.13 at 15h 36m 14s.xml">
-      <configuration name="AppTeste.mediaEntreNumerosIguais" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 46m 35s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTeste_mediaEntreNumerosIguais - 2019.11.13 at 15h 40m 21s.xml">
-      <configuration name="AppTeste.mediaEntreNumerosIguais" configurationId="JUnit" />
+    <history-entry file="AppTeste_separarTextoEm3Linhas - 2019.11.13 at 16h 47m 39s.xml">
+      <configuration name="AppTeste.separarTextoEm3Linhas" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -330,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+        <state relative-caret-position="293">
+          <caret line="121" column="50" selection-start-line="121" selection-start-column="50" selection-end-line="121" selection-end-column="50" />
           <folding>
             <element signature="method#numeroDeImpares#0;class#Application#0" />
             <element signature="method#contarNumeroDeImparesAteNumero#0;class#Application#0" />
@@ -347,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
+        <state relative-caret-position="123">
+          <caret line="101" column="52" selection-start-line="101" selection-start-column="52" selection-end-line="101" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#deveRetornar8#0;class#AppTeste#0" />
