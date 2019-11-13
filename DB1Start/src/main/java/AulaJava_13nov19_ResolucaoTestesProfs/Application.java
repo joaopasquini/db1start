@@ -25,4 +25,11 @@ public class Application {
     public String removeNumerosDaString(String palavra){
         return palavra.replaceAll("[0-9]","");
     }
+
+    public int quantidadeDeVogais(String texto) {
+        return texto
+                .toUpperCase()
+                .replaceAll("[^AEIOU]","")
+                .length();
+    }
 }

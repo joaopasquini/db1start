@@ -16,6 +16,15 @@ public class AppTeste {
         Assert.assertArrayEquals(esperado, resultado);
     }
 
+    @Test
+    public void deveContarQuantidadeDeVogais() {
+        int esperado = 3;
 
+        int resultado = application.quantidadeDeVogais(" MAIKO");
+
+        Assert.assertEquals(esperado,resultado);
+
+
+    }
 
 }
