@@ -38,6 +38,22 @@ public class Application {
         return (numero+1)/2;
     }
 
+    public Integer multiplicarDoisNumeros(int valor1, int valor2) {
+        return valor1*valor2;
+    }
+
+    public Integer dividirDoisNumeros(int dividendo, int divisor) {
+        return dividendo/divisor;
+    }
+
+    public boolean verificarSeNumeroPar(int numero) {
+        return numero % 2 == 0 ? true : false;
+    }
+
+    public Integer retornarMaiorNumero(int valor1, int valor2) {
+        return valor1 > valor2 ? valor1 : valor2;
+    }
+
 
     // String
 
@@ -89,6 +105,8 @@ public class Application {
     }
 
 
+
+
     // Double
 
     public static Double encontrarMenorValor2Valores(double valor1, double valor2){
@@ -129,6 +147,7 @@ public class Application {
         if (nomeCompleto.length() < 4) throw new RuntimeException();
         return nomeCompleto.substring(0,4);
     }
+
 
 
 }

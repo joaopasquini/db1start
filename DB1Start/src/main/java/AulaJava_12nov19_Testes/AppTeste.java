@@ -42,6 +42,36 @@ public class AppTeste {
 
     }
 
+    @Test
+    public void multiplicacaoDeveRetornar30(){
+        Integer expected = 30;
+        Integer response = application.multiplicarDoisNumeros(6,5);
+
+        Assert.assertEquals(expected,response);
+    }
+
+    @Test
+    public void divisaoDeveRetornar5(){
+        Integer expected = 5;
+        Integer response = application.dividirDoisNumeros(30,6);
+
+        Assert.assertEquals(expected,response);
+    }
+
+    @Test
+    public void numero20deveSerPar(){
+        Assert.assertTrue(application.verificarSeNumeroPar(20));
+    }
+
+    @Test
+    public void numero10DeveSerMaiorQue5(){
+        Integer expected = 10;
+
+        Integer response = application.retornarMaiorNumero(10,5);
+
+        Assert.assertEquals(expected,response);
+    }
+
     // Testes de String
 
     @Test
@@ -150,7 +180,10 @@ public class AppTeste {
 
     }
 
-
+    @Test
+    public void areaDeUmTrianguloEquilateroDeLado10(){
+        Double expected =
+    }
 
 
 }
