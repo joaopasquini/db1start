@@ -180,10 +180,7 @@ public class AppTeste {
 
     }
 
-    @Test
-    public void areaDeUmTrianguloEquilateroDeLado10(){
-        Double expected =
-    }
+
 
 
 }

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="170">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="method#contarNumeroDeImparesSL#0;class#Application#0" />
@@ -34,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="184" column="26" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+            <state relative-caret-position="72">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#deveRetornar8#0;class#AppTeste#0" />
@@ -60,7 +59,18 @@
                 <element signature="method#menorValorEntreOpostos#0;class#AppTeste#0" />
                 <element signature="method#menorValorEntre3Valores#0;class#AppTeste#0" />
                 <element signature="method#mediaEntreNumerosIguais#0;class#AppTeste#0" />
-                <element signature="e#4724#4725#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_EstruturaDeDados/UsandoListas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="32" column="71" lean-forward="true" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,10 +97,11 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/Application.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_EstruturaDeDados/UsandoListas.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -121,13 +132,7 @@
               <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_12nov19_Testes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_13nov19_ResolucaoTestesProfs" type="462c0819:PsiDirectoryNode" />
+              <item name="AulaJava_14nov19_EstruturaDeDados" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,7 +146,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573751815174" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573754883875" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -165,18 +170,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTeste.numero10DeveSerMaiorQue5">
-    <configuration name="AppTeste (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.UsandoListas">
+    <configuration name="UsandoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AulaJava_14nov19_EstruturaDeDados.UsandoListas" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_13nov19_ResolucaoTestesProfs.*" />
+          <option name="PATTERN" value="AulaJava_14nov19_EstruturaDeDados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_13nov19_ResolucaoTestesProfs" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_13nov19_ResolucaoTestesProfs.AppTeste" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -247,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsandoListas" />
         <item itemvalue="JUnit.AppTeste.numero10DeveSerMaiorQue5" />
         <item itemvalue="JUnit.AppTeste.numero20deveSerPar" />
         <item itemvalue="JUnit.AppTeste.divisaoDeveRetornar5" />
         <item itemvalue="JUnit.AppTeste.multiplicacaoDeveRetornar30" />
-        <item itemvalue="JUnit.AppTeste (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +378,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="170">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="method#contarNumeroDeImparesSL#0;class#Application#0" />
@@ -393,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="184" column="26" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+        <state relative-caret-position="72">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#deveRetornar8#0;class#AppTeste#0" />
@@ -416,7 +419,16 @@
             <element signature="method#menorValorEntreOpostos#0;class#AppTeste#0" />
             <element signature="method#menorValorEntre3Valores#0;class#AppTeste#0" />
             <element signature="method#mediaEntreNumerosIguais#0;class#AppTeste#0" />
-            <element signature="e#4724#4725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_EstruturaDeDados/UsandoListas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="32" column="71" lean-forward="true" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
