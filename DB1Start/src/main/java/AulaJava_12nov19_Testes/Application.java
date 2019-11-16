@@ -56,7 +56,27 @@ public class Application {
 
 
     // String
+    
+    public String transformarEmMaiusculo(String texto) {
+		return texto.toUpperCase();
+	}
+    
+    public String transformarEmMinusculo(String texto) {
+		return texto.toLowerCase();
+	}
 
+    public int contarNumeroDeLetrasNaString(String string) {
+		return removerNumerosDaString(string).length();
+	}
+
+	public String removerNumerosDaString(String string) {
+		return string.replaceAll("[0..1]", "").trim();
+	}
+	
+	public String devolverStringApartirDaTerceiraLetra(String string) {
+		return string.substring(2,string.length());
+	}
+    
     public String inverterString(String palavra) {
 
         String teste = "";
@@ -147,6 +167,16 @@ public class Application {
         if (nomeCompleto.length() < 4) throw new RuntimeException();
         return nomeCompleto.substring(0,4);
     }
+
+	public Double calcularAreaTrianguloEquilatero(double lado) {
+         return ((lado*lado)* Math.sqrt(3))/4;
+	}
+
+	
+
+	
+
+	
 
 
 

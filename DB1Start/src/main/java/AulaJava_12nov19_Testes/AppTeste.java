@@ -34,7 +34,7 @@ public class AppTeste {
     @Test
     public void numeroDeImparesAteO100() {
 
-        Application application = new Application();
+        
 
         Integer expected = 50;
 
@@ -73,10 +73,44 @@ public class AppTeste {
     }
 
     // Testes de String
+    
+    @Test
+    public void devolverEmMaiusculoDb1start() {
+    	String expected = "DB1START";
+    	String response = application.transformarEmMaiusculo("db1start");
+    	Assert.assertEquals(expected,response);
+    }
+    
+    @Test
+    public void devolverEmMinusculoDb1start() {
+    	String expected = "db1start";
+    	String response = application.transformarEmMinusculo("DB1START");
+    	Assert.assertEquals(expected,response);
+    }
 
     @Test
+    public void contarLetrasDb1startDevolver7() {
+    	int expected = 7;
+    	int response = application.contarNumeroDeLetrasNaString("db1start");
+        Assert.assertEquals(expected, response);
+    }
+    
+    @Test
+    public void contarLetrasDb1startComEspacosDevolver7() {
+    	int expected = 7;
+    	int response = application.contarNumeroDeLetrasNaString(" db1start ");
+        Assert.assertEquals(expected, response);
+    }
+    
+    @Test
+    public void devolverStringDb1startComecandoPelo1() {
+    	String expected = "1start";
+    	String actual = application.devolverStringApartirDaTerceiraLetra("db1start");
+    }
+    
+    @Test
     public void contarQuantidadeDeCaracteresNaString(){
-        Application application = new Application();
+        
 
         Integer expected = 8;
 
@@ -88,7 +122,7 @@ public class AppTeste {
 
     @Test
     public void StringReversa(){
-        Application application = new Application();
+       
         String palavraEsperada = "oiratinu etset trats1bd";
 
         Assert.assertEquals(palavraEsperada,application.inverterString("db1start teste unitario"));
@@ -97,7 +131,7 @@ public class AppTeste {
     @Test
     public void mostrarAlunoDb1Start(){
 
-        Application application = new Application();
+        
 
         String expected = "Aluno Db1start";
 
@@ -110,7 +144,7 @@ public class AppTeste {
     @Test
     public void contar10Vogais(){
 
-        Application application = new Application();
+        
 
         Integer expected = 10;
 
@@ -122,7 +156,7 @@ public class AppTeste {
 
     @Test
     public void separarTextoEm3Linhas(){
-        Application application = new Application();
+        
         String expected = "banana\nmaçã\nmelancia";
         String response = application.quebrarStringEmLinhas("banana, maçã, melancia");
         Assert.assertEquals(expected,response);
@@ -130,7 +164,7 @@ public class AppTeste {
 
     @Test
     public void mostrarApenasPalavraTart(){
-        Application application = new Application();
+
         String expected = "Tart";
         String response = application.mostrarApenasUltimasQuatroLetras("Db1sTart");
         Assert.assertEquals(expected,response);
@@ -138,7 +172,6 @@ public class AppTeste {
 
     @Test
     public void mostrarApenasPalavraDb1s(){
-        Application application = new Application();
         String expected = "Db1s";
         String response = application.mostrarApenasPrimeirasQuatroLetras("Db1sTart");
         Assert.assertEquals(expected,response);
@@ -149,7 +182,7 @@ public class AppTeste {
     @Test
     public void menorValorEntreOpostos(){
 
-        Application application = new Application();
+      
 
         Double expected = -4.5;
         Double response = application.encontrarMenorValor2Valores(4.5,-4.5);
@@ -160,7 +193,7 @@ public class AppTeste {
     @Test
     public void menorValorEntre3Valores(){
 
-        Application application = new Application();
+        
 
         Double expected = -4.5;
         Double response = application.encontrarMenorValor3Valores(4.5,4.5,-4.5);
@@ -170,7 +203,6 @@ public class AppTeste {
 
     @Test
     public void mediaEntreNumerosIguais(){
-        Application application = new Application();
 
         Double expected = 5.5;
 
@@ -178,6 +210,15 @@ public class AppTeste {
 
         Assert.assertEquals(expected,response);
 
+    }
+    
+    @Test
+    public void areaDeUmTrianguloEquilateroDeLado5() {
+    	
+    	Double expected = 10.83;
+    	Double response = application.calcularAreaTrianguloEquilatero(5.0);
+    	Assert.assertEquals(expected, response,0.01);
+    	
     }
 
 
