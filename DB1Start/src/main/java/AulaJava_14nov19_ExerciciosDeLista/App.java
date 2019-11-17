@@ -1,8 +1,6 @@
 package AulaJava_14nov19_ExerciciosDeLista;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class App {
    public static void main (String[] Args){
@@ -10,11 +8,6 @@ public class App {
        List<String> coresQueEuMaisGosto = new ArrayList<>();
 
        coresQueEuMaisGosto = retornarCoresQueEuMaisGosto();
-
-       System.out.println(quantidadeDeItensNaLista(coresQueEuMaisGosto));
-
-       imprimirListaDeCores(coresQueEuMaisGosto);
-
 
 
 
@@ -30,23 +23,40 @@ public class App {
 
     }
 
-    public static int quantidadeDeItensNaLista(List<String> listaDeCores){
-       return listaDeCores.size();
+    public static int quantidadeDeItensNaLista(List<String> lista){
+       return lista.size();
     }
 
-    public static void imprimirListaDeCores (List<String> listaDeCores){
-        System.out.println(listaDeCores);
+    public static void imprimirLista (List<String> lista){
+        System.out.println(lista);
     }
 
-    public static void adicionarStringsRemoverSegundaPosicao(List<String> lista, String a, String b, String c){
-
-
-
+    public static List<String> removerSegundaPosicao(List<String> lista,String palavra1, String palavra2, String palavra3){
+       lista.addAll(Arrays.asList(palavra1,palavra2,palavra3));
+       lista.remove(2);
+       return lista;
     }
 
+    public static void imprimirListaEmOrdemAlfabetica(List<String> lista){
+       List<String> listaOrdenada = new ArrayList<>();
+       listaOrdenada.addAll(lista);
+       Collections.sort(listaOrdenada);
+       System.out.println(listaOrdenada);
+    }
 
+    public static void removerUmaStringDaLista(List<String> lista, String palavra){
+       if(lista.contains(palavra)){
+           lista.remove(palavra);
+       }
+    }
 
-
+    public static void imprimirListaEmOrdemAlfabeticaInversa(List<String> lista){
+        List<String> listaOrdenada = new ArrayList<>();
+        listaOrdenada.addAll(lista);
+        Collections.sort(listaOrdenada);
+        Collections.reverse(listaOrdenada);
+        System.out.println(listaOrdenada);
+    }
 
 
 
