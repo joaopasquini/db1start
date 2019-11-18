@@ -10,47 +10,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-22">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="85" />
-              <folding>
-                <element signature="method#removerSegundaPosicao#0;class#App#0" />
-                <element signature="method#imprimirListaEmOrdemAlfabetica#0;class#App#0" />
-                <element signature="method#removerUmaStringDaLista#0;class#App#0" />
-                <element signature="method#imprimirListaEmOrdemAlfabeticaInversa#0;class#App#0" />
-                <element signature="method#retornarMapaDeParesEImpares#0;class#App#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#confirmarCoresQueEuMaisGosto#0;class#AppTest#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+            <state relative-caret-position="167">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#coresFavoritas#0;class#App#0" />
-                <element signature="method#recebeStringRemoveSegunda#0;class#App#0" />
-                <element signature="method#imprimirCoresFavoritas#0;class#App#0" />
-                <element signature="method#imprimirCoresFavoritasOrdenadas#0;class#App#0" />
-                <element signature="method#imprimirCoresFavoritasDesc#0;class#App#0" />
+                <element signature="e#1327#1328#0" expanded="true" />
+                <element signature="e#1356#1357#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +43,8 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTeste.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/UsandoSets.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java" />
       </list>
     </option>
   </component>
@@ -111,7 +81,7 @@
               <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_18nov19_ResolucaoExerciciosDeLista" type="462c0819:PsiDirectoryNode" />
+              <item name="AulaJava_18nov19_UsandoSets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,7 +94,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574102692904" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574106696756" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -152,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.UsandoSets">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AulaJava_18nov19_ResolucaoExerciciosDeLista.App" />
       <module name="main" />
@@ -179,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsandoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AulaJava_14nov19_EstruturaDeDados.UsandoListas" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AulaJava_18nov19_UsandoSets.App" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_14nov19_EstruturaDeDados.*" />
+          <option name="PATTERN" value="AulaJava_18nov19_UsandoSets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsandoSets" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="JUnit.AppTest.confirmarCoresQueEuMaisGosto" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AppTeste" />
-        <item itemvalue="Application.UsandoListas" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +223,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -268,7 +237,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,6 +295,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="1465" selection-start-line="1465" selection-end-line="1465" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#coresFavoritas#0;class#App#0" />
+            <element signature="method#recebeStringRemoveSegunda#0;class#App#0" />
+            <element signature="method#imprimirCoresFavoritas#0;class#App#0" />
+            <element signature="method#imprimirCoresFavoritasOrdenadas#0;class#App#0" />
+            <element signature="method#imprimirCoresFavoritasDesc#0;class#App#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#confirmarCoresQueEuMaisGosto#0;class#AppTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22">
@@ -340,28 +342,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="167">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#confirmarCoresQueEuMaisGosto#0;class#AppTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#coresFavoritas#0;class#App#0" />
-            <element signature="method#recebeStringRemoveSegunda#0;class#App#0" />
-            <element signature="method#imprimirCoresFavoritas#0;class#App#0" />
-            <element signature="method#imprimirCoresFavoritasOrdenadas#0;class#App#0" />
-            <element signature="method#imprimirCoresFavoritasDesc#0;class#App#0" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
           </folding>
         </state>
       </provider>
