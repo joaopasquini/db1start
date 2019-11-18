@@ -8,12 +8,7 @@ public class App {
        List<String> coresQueEuMaisGosto = new ArrayList<>();
        coresQueEuMaisGosto = retornarCoresQueEuMaisGosto();
 
-       HashMap<Integer,List<Integer>> mapaParesEImpares = new HashMap<>();
-       List<Integer> numeros = new ArrayList<>();
 
-       numeros.addAll(Arrays.asList(0,1,2,3,4,5,6,7,8,9));
-
-       retornarMapaDeParesEImpares(numeros);
    }
 
     public static List<String> retornarCoresQueEuMaisGosto(){
