@@ -23,7 +23,7 @@ public class App {
          imprimirCoresFavoritasDesc(cores);
 
          Map<String,List<Integer>> paresEImpares = separar(Arrays.asList(1,1,2,3,5,8,12,20,32));
-         paresEImpares.forEach((chave,valor) -> System.out.println());
+         paresEImpares.forEach((chave,valor) -> System.out.println(chave + ": " + valor));
 
     }
 
@@ -120,14 +120,23 @@ public class App {
 
         Map<String,List<Integer>> mapa = new HashMap<>();
 
+//       Forma 1
 //        mapa.put("PAR", new ArrayList<>());
 //        mapa.put("IMPAR", new ArrayList<>());
-//        numeros.forEach(n-> (
-//                String chave = n % 2 == 0 ? "PAR" : "IMPAR";
-//                mapa.get(chave).add(n);
-//                ));
-//
-//        return mapa;
+//        numeros.forEach(n -> {
+//            if (n % 2 == 0) {
+//                mapa.get("PAR").add(n);
+//            } else {
+//                mapa.get("IMPAR").add(n);
+//            }
+//        });
+        //Forma 2
+//        mapa.put("PAR", new ArrayList<>());
+//        mapa.put("IMPAR", new ArrayList<>());
+//        numeros.forEach(n -> {
+//            String chave = n % 2 == 0 ? "PAR" : "IMPAR";
+//            mapa.get(chave).add(n);
+//        });//        return mapa;
 
        List<Integer> pares = numeros.stream()
                .filter(n -> n % 2 == 0 )
