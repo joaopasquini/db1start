@@ -6,10 +6,31 @@ import java.util.List;
 
 public class Aula {
 
-     public Date data;
-     public Materia materia;
-     public List<Aluno> alunos = new ArrayList<Aluno>();
+     private Date data;
+     private Materia materia;
+     private List<Aluno> alunos = new ArrayList<Aluno>();
 
+
+     public Aula(Date data, Materia materia) {
+          this.data = data;
+          this.materia = materia;
+     }
+
+     public void setAlunos(List<Aluno> alunos) {
+          this.alunos = alunos;
+     }
+
+     public Date getData() {
+          return data;
+     }
+
+     public Materia getMateria() {
+          return materia;
+     }
+
+     public List<Aluno> getAlunos() {
+          return alunos;
+     }
 
      @Override
      public String toString() {
