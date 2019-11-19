@@ -4,15 +4,14 @@ public class Aluno extends Pessoa {
 
     public Double nota;
 
+    public Aluno(String email, String nome) {
+        super(email, nome);
+    }
 
     @Override
     public String toString() {
-        return "Aluno{" +
-                "nota=" + nota +
-                ", email='" + email + '\'' +
-                ", nome='" + nome + '\'' +
+        return super.toString() + "( Aluno{" +
+                "nota=" + nota + '\'' +
                 '}';
     }
-
-
 }

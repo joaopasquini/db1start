@@ -4,14 +4,10 @@ public class Professor extends Pessoa {
 
     public Double salario;
 
-    @Override
-    public String toString() {
-        return "Professor{" +
-                "salario=" + salario +
-                ", email='" + email + '\'' +
-                ", nome='" + nome + '\'' +
-                '}';
+    public Professor(String email, String nome) {
+        super(email, nome);
     }
+
 
 
 }
