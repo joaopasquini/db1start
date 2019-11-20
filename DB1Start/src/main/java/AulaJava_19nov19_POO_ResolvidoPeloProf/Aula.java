@@ -11,9 +11,10 @@ public class Aula {
      private List<Aluno> alunos = new ArrayList<Aluno>();
 
 
-     public Aula(Date data, Materia materia) {
+     public Aula(Date data, Materia materia,List<Aluno> alunos) {
           this.data = data;
           this.materia = materia;
+          this.alunos = alunos;
      }
 
      public void setAlunos(List<Aluno> alunos) {

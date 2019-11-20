@@ -53,7 +53,7 @@ public class AppTest {
     }
 
     @Test
-    public void criarAulaPeloConstrutor(){
+    public void deveCriarAulaPeloConstrutor(){
         Professor professor = new Professor("fake@gmail.com","Fake");
         Materia materia = new Materia("POO", "Fundamentos de Java",10.5, 3,professor);
         List<Aluno> alunos = new ArrayList<>();
@@ -63,10 +63,11 @@ public class AppTest {
         alunos.addAll(Arrays.asList(a,b,c));
 
         Date data = new Date();
-        Aula aula = new Aula(data,materia);
+        Aula aula = new Aula(data,materia,alunos);
 
         Assert.assertEquals(data,aula.getData());
         Assert.assertEquals(materia,aula.getMateria());
+        Assert.assertEquals(alunos,aula.getAlunos());
 
 
     }
