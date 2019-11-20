@@ -11,6 +11,8 @@ import java.util.List;
 
 public class AppTest {
 
+    //Variaveis Globais para Testes
+
     Professor professor = new Professor("fake@gmail.com","Fake");
 
     String nomeMateria = "POO";
