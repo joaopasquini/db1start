@@ -8,21 +8,30 @@ public class Aula {
 
      private Date data;
      private Materia materia;
-     private List<Aluno> alunos = new ArrayList<Aluno>();
+     private List<Aluno> alunos = new ArrayList<>();
+     CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
 
-
-     public Aula(Date data, Materia materia,List<Aluno> alunos) {
-          CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
+     public Aula(Date data, Materia materia) {
           campo.compararObjetoComNulo(data,"Data nao pode ser nula");
           campo.compararObjetoComNulo(materia,"Materia nao pode ser nula");
           this.data = data;
           this.materia = materia;
-          this.alunos = alunos;
      }
 
      public void setAlunos(List<Aluno> alunos) {
           this.alunos = alunos;
      }
+
+     public void darPresenca(Aluno aluno){
+          campo.compararObjetoComNulo(aluno,"Aluno nao pode ser nulo");
+          this.alunos.add(aluno);
+     }
+
+     public Integer retornarTamanhoDaListaDePresenca(){
+          return alunos.size();
+     }
+
+
 
      public Date getData() {
           return data;

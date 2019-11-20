@@ -8,6 +8,8 @@ public class Materia {
     public Integer quantidadeAulas;
     public Professor professor;
 
+    CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
+
 
 
 
@@ -50,6 +52,11 @@ public class Materia {
 
     public Professor getProfessor() {
         return professor;
+    }
+
+    public void trocaProfessor(Professor professor){
+        campo.compararObjetoComNulo(professor,"Professor para troca nao pode ser nulo");
+        this.professor = professor;
     }
 
     @Override

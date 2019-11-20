@@ -1,5 +1,6 @@
 package AulaJava_19nov19_POO_ResolvidoPeloProf;
 
+import com.sun.xml.internal.ws.policy.AssertionSet;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -14,6 +15,7 @@ public class AppTest {
     //Variaveis Globais para Testes
 
     Professor professor = new Professor("fake@gmail.com","Fake");
+    Aluno alunoTeste = new Aluno("lalala@gmail.com","Lalala");
 
     String nomeMateria = "POO";
     String descricao = "Fundamentos de Java";
@@ -22,6 +24,7 @@ public class AppTest {
 
     Materia materia = new Materia(nomeMateria, descricao, cargaHoraria, quantidadeAulas,professor);
 
+    //====================================================================================
     // Testes de Aluno
     @Test
     public void deveCriarAlunoPorMeioDoConstrutor(){
@@ -157,26 +160,19 @@ public class AppTest {
     public void deveCriarAulaPeloConstrutor(){
         Professor professor = new Professor("fake@gmail.com","Fake");
         Materia materia = new Materia("POO", "Fundamentos de Java",10.5, 3,professor);
-        List<Aluno> alunos = new ArrayList<>();
-        Aluno a = new Aluno("aaa@gmail.com","aaa");
-        Aluno b = new Aluno("bbb@gmail.com","bbb");
-        Aluno c = new Aluno("ccc@gmail.com","ccc");
-        alunos.addAll(Arrays.asList(a,b,c));
 
         Date data = new Date();
-        Aula aula = new Aula(data,materia,alunos);
+        Aula aula = new Aula(data,materia);
 
         Assert.assertEquals(data,aula.getData());
         Assert.assertEquals(materia,aula.getMateria());
-        Assert.assertEquals(alunos,aula.getAlunos());
-
 
     }
 
     @Test
     public void deveJogarExceptionComDataNulaNaAula(){
         try{
-            Aula aula = new Aula(null,materia,null);
+            Aula aula = new Aula(null,materia);
         } catch (CampoNaoPodeSerNulo naoPodeSerNulo){
             Assert.assertEquals("Data nao pode ser nula",naoPodeSerNulo.getMessage());
         }
@@ -185,11 +181,35 @@ public class AppTest {
     @Test
     public void deveJogarExceptionComMateriaNulaNaAula(){
         try{
-            Aula aula = new Aula(new Date(),null,null);
+            Aula aula = new Aula(new Date(),null);
         } catch (CampoNaoPodeSerNulo naoPodeSerNulo){
             Assert.assertEquals("Materia nao pode ser nula",naoPodeSerNulo.getMessage());
         }
     }
+
+    @Test
+    public void deveAdicionarAlunoNaChamada(){
+        Aula aula = new Aula(new Date(),materia);
+
+        Assert.assertEquals(0,aula.getAlunos().size());
+
+        aula.darPresenca(alunoTeste);
+
+        Assert.assertEquals(1,aula.getAlunos().size());
+
+
+    }
+
+    @Test
+    public void deveJogarExceptionAoTrocarProfessorParaNulo(){
+        try {
+            materia.trocaProfessor(null);
+        } catch (CampoNaoPodeSerNulo naoPodeSerNulo){
+            Assert.assertEquals("Professor para troca nao pode ser nulo",naoPodeSerNulo.getMessage());
+        }
+    }
+
+
 
 
 }
