@@ -7,7 +7,17 @@ public abstract class Pessoa {
     private String email;
     private String nome;
 
+    public  Pessoa(){
+
+    }
+
+
     public Pessoa(String email, String nome) {
+        CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
+
+        campo.compararObjetoComNulo(email,"Email nao pode ser nulo");
+        campo.compararObjetoComNulo(nome,"Nome nao pode ser nulo");
+
         this.email = email;
         this.nome = nome;
     }

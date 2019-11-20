@@ -12,6 +12,9 @@ public class Aula {
 
 
      public Aula(Date data, Materia materia,List<Aluno> alunos) {
+          CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
+          campo.compararObjetoComNulo(data,"Data nao pode ser nula");
+          campo.compararObjetoComNulo(materia,"Materia nao pode ser nula");
           this.data = data;
           this.materia = materia;
           this.alunos = alunos;

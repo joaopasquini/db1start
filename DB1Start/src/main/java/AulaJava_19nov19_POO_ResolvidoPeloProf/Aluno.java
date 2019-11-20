@@ -4,8 +4,9 @@ public class Aluno extends Pessoa {
 
     public Double nota;
 
+
     public Aluno(String email, String nome) {
-        super(email, nome);
+        super(email,nome);
     }
 
     @Override

@@ -9,7 +9,22 @@ public class Materia {
     public Professor professor;
 
 
+
+
     public Materia(String nome, String descricao, Double cargaHoraria, Integer quantidadeAulas, Professor professor) {
+
+        CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
+
+//        if( descricao == null){
+//            throw new CampoNaoPodeSerNulo("Descricao nao pode ser nulo");
+//        }
+
+        campo.compararObjetoComNulo(nome,"Nome da Materia nao pode ser nulo");
+        campo.compararObjetoComNulo(descricao,"Descricao nao pode ser nula");
+        campo.compararObjetoComNulo(cargaHoraria, "Carga Horaria nao pode ser nula");
+        campo.compararObjetoComNulo(quantidadeAulas, "Quantidade de aulas nao pode ser nula");
+        campo.compararObjetoComNulo(professor,"Professor nao pode ser nulo");
+
         this.nome = nome;
         this.descricao = descricao;
         this.cargaHoraria = cargaHoraria;
