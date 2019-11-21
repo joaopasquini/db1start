@@ -12,8 +12,7 @@ public abstract class Conta {
     private double saldo;
     private List<OperacoesDaConta> historico = new ArrayList<>();
 
-    CampoNaoPodeSerNulo validar = new CampoNaoPodeSerNulo();
-
+    ValidacaoException validar = new ValidacaoException();
 
     public Conta () {
 
@@ -42,10 +41,31 @@ public abstract class Conta {
         historico.add(new OperacoesDaConta(new Date(),this.id,this.nomeTitular,"Saque",String.valueOf(-quantia)));
     }
 
-    public void transferir(Banco banco,String idDoFavorecido, double quantia){
+    public void transferir(Banco banco,String idContaDoFavorecido, double quantia){
+        ContaCorrente conta;
         validar.compararQuantiaComSaldo(quantia,getSaldo());
 
+        conta = banco.retornarContaEspecificaAtravesDoId(idContaDoFavorecido);
+        validar.compararObjetoComNulo(conta,"Essa conta nao existe!");
 
+        this.saldo -=quantia;
+        conta.depositarDinheiro(quantia);
+
+        historico.add(new OperacoesDaConta(new Date(),
+                                           this.id,
+                                           this.nomeTitular,
+                               "Transferencia",
+                                           conta.getNomeTitular(),
+                                           conta.getId(),
+                                           String.valueOf(quantia)));
+    }
+
+    public void mostrarSaldo(){
+        System.out.println("__________________________________________________________");
+        System.out.println("Numero da Conta -  "+getId());
+        System.out.println("Agencia - "+getAgencia());
+        System.out.println("Nome Titular: "+getNomeTitular());
+        System.out.println("Saldo: "+getSaldo());
     }
 
     public void mostrarExtrato(){
@@ -60,7 +80,7 @@ public abstract class Conta {
         return nomeTitular;
     }
 
-    public double getSaldo() {
+    private double getSaldo() {
         return saldo;
     }
 

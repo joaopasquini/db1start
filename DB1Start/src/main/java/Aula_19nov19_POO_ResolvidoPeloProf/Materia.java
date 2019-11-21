@@ -18,7 +18,7 @@ public class Materia {
         CampoNaoPodeSerNulo campo = new CampoNaoPodeSerNulo();
 
 //        if( descricao == null){
-//            throw new CampoNaoPodeSerNulo("Descricao nao pode ser nulo");
+//            throw new ValidacaoException("Descricao nao pode ser nulo");
 //        }
 
         campo.compararObjetoComNulo(nome,"Nome da Materia nao pode ser nulo");

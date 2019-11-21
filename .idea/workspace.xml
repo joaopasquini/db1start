@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_11nov19/AnotaçõesAula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_11nov19/AnotaçõesAula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_11nov19/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_11nov19/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_11nov19/ExerciciosJava11nov.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_11nov19/ExerciciosJava11nov.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AnotacoesAula12nov.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19_Testes/AnotacoesAula12nov.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19_Testes/AppTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19_Testes/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AnotaçõesAula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/AnotaçõesAula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/AppTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_EstruturaDeDados/UsandoListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct/UsandoListas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct_ExerciciosDeLista/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct_ExerciciosDeLista/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_18nov19_DataStruct_ResolucaoExerciciosDeLista/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_18nov19_DataStruct_UsandoSets/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Materia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,24 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            <state relative-caret-position="340">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="45" column="60" lean-forward="true" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+            <state relative-caret-position="498">
+              <caret line="59" column="69" lean-forward="true" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#Conta#0;class#Conta#0" />
                 <element signature="method#depositarDinheiro#0;class#Conta#0" />
-                <element signature="method#sacarDinheiro#0;class#Conta#0" />
                 <element signature="method#mostrarExtrato#0;class#Conta#0" />
               </folding>
             </state>
@@ -69,25 +44,30 @@
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
+                <element signature="method#adicionarContaCorrente#0;class#Banco#0" />
+                <element signature="method#retornarContaEspecificaAtravesDoId#0;class#Banco#0" />
+                <element signature="e#752#787#1" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#841#880#1" />
+                <element signature="e#940#941#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state relative-caret-position="34">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding>
+                <element signature="method#CampoNaoPodeSerNulo#0;class#CampoNaoPodeSerNulo#0" />
+                <element signature="method#compararObjetoComNulo#0;class#CampoNaoPodeSerNulo#0" />
+                <element signature="method#compararQuantiaComSaldo#0;class#CampoNaoPodeSerNulo#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,8 +75,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+            <state relative-caret-position="313">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <element signature="method#OperacoesDaConta#0;class#OperacoesDaConta#0" />
+                <element signature="method#OperacoesDaConta#1;class#OperacoesDaConta#0" />
+                <element signature="method#toString#0;class#OperacoesDaConta#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,11 +126,12 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/App.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java" />
       </list>
     </option>
   </component>
@@ -201,7 +187,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574359816073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574362968219" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -381,7 +367,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
@@ -392,8 +378,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -708,53 +694,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        <state relative-caret-position="313">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="method#OperacoesDaConta#0;class#OperacoesDaConta#0" />
+            <element signature="method#OperacoesDaConta#1;class#OperacoesDaConta#0" />
+            <element signature="method#toString#0;class#OperacoesDaConta#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
+            <element signature="method#adicionarContaCorrente#0;class#Banco#0" />
+            <element signature="method#retornarContaEspecificaAtravesDoId#0;class#Banco#0" />
+            <element signature="e#752#787#1" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#841#880#1" />
+            <element signature="e#940#941#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="45" column="60" lean-forward="true" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+        <state relative-caret-position="498">
+          <caret line="59" column="69" lean-forward="true" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Conta#0;class#Conta#0" />
             <element signature="method#depositarDinheiro#0;class#Conta#0" />
-            <element signature="method#sacarDinheiro#0;class#Conta#0" />
             <element signature="method#mostrarExtrato#0;class#Conta#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="method#CampoNaoPodeSerNulo#0;class#CampoNaoPodeSerNulo#0" />
+            <element signature="method#compararObjetoComNulo#0;class#CampoNaoPodeSerNulo#0" />
+            <element signature="method#compararQuantiaComSaldo#0;class#CampoNaoPodeSerNulo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

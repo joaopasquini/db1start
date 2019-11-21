@@ -8,7 +8,7 @@ public class Banco {
     String nomeDoBanco;
     List<ContaCorrente> contasCorrentes = new ArrayList<>();
 
-    CampoNaoPodeSerNulo validar = new CampoNaoPodeSerNulo();
+    ValidacaoException validar = new ValidacaoException();
 
     public Banco(String nome){
         this.nomeDoBanco = nome;
@@ -19,6 +19,15 @@ public class Banco {
         this.contasCorrentes.add(conta);
     }
 
+    public ContaCorrente retornarContaEspecificaAtravesDoId(String idDaConta){
+        for(ContaCorrente conta : contasCorrentes){
+            if(conta.getId().equals(idDaConta)){
+                return conta;
+            }
+        }
+        return null;
+    }
+
     public String getNomeDoBanco() {
         return nomeDoBanco;
     }
@@ -26,4 +35,6 @@ public class Banco {
     public List<ContaCorrente> getContasCorrentes() {
         return contasCorrentes;
     }
+
+
 }
