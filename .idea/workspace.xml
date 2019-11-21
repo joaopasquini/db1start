@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/Banco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/Banco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="306">
+              <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -28,32 +33,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="59" column="69" lean-forward="true" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
+            <state relative-caret-position="180">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Conta#0;class#Conta#0" />
-                <element signature="method#depositarDinheiro#0;class#Conta#0" />
-                <element signature="method#mostrarExtrato#0;class#Conta#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#adicionarContaCorrente#0;class#Banco#0" />
-                <element signature="method#retornarContaEspecificaAtravesDoId#0;class#Banco#0" />
-                <element signature="e#752#787#1" />
-                <element signature="e#847#848#0" expanded="true" />
-                <element signature="e#841#880#1" />
-                <element signature="e#940#941#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -61,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="177">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
               <folding>
                 <element signature="method#CampoNaoPodeSerNulo#0;class#CampoNaoPodeSerNulo#0" />
                 <element signature="method#compararObjetoComNulo#0;class#CampoNaoPodeSerNulo#0" />
@@ -75,12 +69,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="493">
+              <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
               <folding>
                 <element signature="method#OperacoesDaConta#0;class#OperacoesDaConta#0" />
                 <element signature="method#OperacoesDaConta#1;class#OperacoesDaConta#0" />
-                <element signature="method#toString#0;class#OperacoesDaConta#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="177" column="56" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#deveCriarAlunoPorMeioDoConstrutor#0;class#AppTest#0" />
+                <element signature="method#deveCriarProfessorPorMeioDoConstrutor#0;class#AppTest#0" />
+                <element signature="method#deveJogarExceptionComNomeNuloDaMateria#0;class#AppTest#0" />
+                <element signature="method#deveCriarMateriaPorMeioDoConstrutor#0;class#AppTest#0" />
+                <element signature="method#deveJogarExceptionComDataNulaNaAula#0;class#AppTest#0" />
+                <element signature="method#deveJogarExceptionComMateriaNulaNaAula#0;class#AppTest#0" />
+                <element signature="method#deveAdicionarAlunoNaChamada#0;class#AppTest#0" />
+                <element signature="method#deveJogarExceptionAoTrocarProfessorParaNulo#0;class#AppTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/AppTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#devePossuir3OperacoesNoHistorico#0;class#AppTeste#0" />
+                <element signature="method#deveJogarExceptionAoSacarComValor0#0;class#AppTeste#0" />
+                <element signature="method#deveJogarExceptionAoSacarMaisQueOSaldo#0;class#AppTeste#0" />
+                <element signature="method#deveTerminarComSaldo500AoSacar250#0;class#AppTeste#0" />
+                <element signature="method#testarDepositoComValor0#0;class#AppTeste#0" />
+                <element signature="method#deveTerminarComSaldo500AoDepositar500#0;class#AppTeste#0" />
+                <element signature="method#deveJogarExceptionAoTransferirMaisQueOSaldo#0;class#AppTeste#0" />
+                <element signature="method#deveJogarExceptionAoTransferirComValor0#0;class#AppTeste#0" />
+                <element signature="method#verificarSaldosAposTransferencia#0;class#AppTeste#0" />
               </folding>
             </state>
           </provider>
@@ -124,18 +158,20 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/App.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" />
-        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/AppTeste.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -187,7 +223,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574362968219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574366183452" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -224,20 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.App" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.AppTeste.deveCriarBancoPeloConstrutor">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AulaJava_18nov19_UsandoSets.App" />
       <module name="main" />
@@ -251,53 +274,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.deveAdicionarAlunoNaChamada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula_19nov19_POO_ResolvidoPeloProf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf" />
-      <option name="MAIN_CLASS_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf.AppTest" />
-      <option name="METHOD_NAME" value="deveAdicionarAlunoNaChamada" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest.deveJogarExceptionAoTrocarProfessorParaNulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula_19nov19_POO_ResolvidoPeloProf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf" />
-      <option name="MAIN_CLASS_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf.AppTest" />
-      <option name="METHOD_NAME" value="deveJogarExceptionAoTrocarProfessorParaNulo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula_19nov19_POO_ResolvidoPeloProf in main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula_19nov19_POO_ResolvidoPeloProf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste.deveCriarBancoPeloConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
@@ -306,18 +283,84 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
+      <option name="METHOD_NAME" value="deveCriarBancoPeloConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.devePossuir3OperacoesNoHistorico" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
+      <option name="METHOD_NAME" value="devePossuir3OperacoesNoHistorico" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.deveTerminarComSaldo500AoDepositar500" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
+      <option name="METHOD_NAME" value="deveTerminarComSaldo500AoDepositar500" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.deveTerminarComSaldo500AoSacar250" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
+      <option name="METHOD_NAME" value="deveTerminarComSaldo500AoSacar250" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTeste.verificarSaldosAposTransferencia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
+      <option name="METHOD_NAME" value="verificarSaldosAposTransferencia" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.Aula_21nov19_POO_ExercicioContaCorrente in main" />
-        <item itemvalue="JUnit.AppTest.deveJogarExceptionAoTrocarProfessorParaNulo" />
-        <item itemvalue="JUnit.AppTest.deveAdicionarAlunoNaChamada" />
-        <item itemvalue="JUnit.Aula_19nov19_POO_ResolvidoPeloProf in main" />
+        <item itemvalue="JUnit.AppTeste.deveCriarBancoPeloConstrutor" />
+        <item itemvalue="JUnit.AppTeste.devePossuir3OperacoesNoHistorico" />
+        <item itemvalue="JUnit.AppTeste.deveTerminarComSaldo500AoDepositar500" />
+        <item itemvalue="JUnit.AppTeste.verificarSaldosAposTransferencia" />
+        <item itemvalue="JUnit.AppTeste.deveTerminarComSaldo500AoSacar250" />
       </list>
     </recent_temporary>
   </component>
@@ -335,35 +378,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_deveJogarExceptionComProfessorNuloDaMateria - 2019.11.20 at 16h 54m 46s.xml">
-      <configuration name="AppTest.deveJogarExceptionComProfessorNuloDaMateria" configurationId="JUnit" />
+    <history-entry file="AppTeste_deveJogarExceptionAoTransferirMaisQueOSaldo - 2019.11.21 at 17h 38m 33s.xml">
+      <configuration name="AppTeste.deveJogarExceptionAoTransferirMaisQueOSaldo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionComDataNulaNaAula - 2019.11.20 at 16h 59m 18s.xml">
-      <configuration name="AppTest.deveJogarExceptionComDataNulaNaAula" configurationId="JUnit" />
+    <history-entry file="AppTeste_deveTerminarComSaldo500AoSacar250 - 2019.11.21 at 17h 41m 55s.xml">
+      <configuration name="AppTeste.deveTerminarComSaldo500AoSacar250" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionComMateriaNulaNaAula - 2019.11.20 at 16h 59m 56s.xml">
-      <configuration name="AppTest.deveJogarExceptionComMateriaNulaNaAula" configurationId="JUnit" />
+    <history-entry file="AppTeste_deveTerminarComSaldo500AoSacar250 - 2019.11.21 at 17h 42m 03s.xml">
+      <configuration name="AppTeste.deveTerminarComSaldo500AoSacar250" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionComMateriaNulaNaAula - 2019.11.20 at 17h 01m 58s.xml">
-      <configuration name="AppTest.deveJogarExceptionComMateriaNulaNaAula" configurationId="JUnit" />
+    <history-entry file="AppTeste_verificarSaldosAposTransferencia - 2019.11.21 at 17h 44m 52s.xml">
+      <configuration name="AppTeste.verificarSaldosAposTransferencia" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AulaJava_19nov19_POO_ResolvidoPeloProf_in_main - 2019.11.20 at 17h 02m 02s.xml">
-      <configuration name="AulaJava_19nov19_POO_ResolvidoPeloProf in main" configurationId="JUnit" />
+    <history-entry file="AppTeste_verificarSaldosAposTransferencia - 2019.11.21 at 17h 45m 13s.xml">
+      <configuration name="AppTeste.verificarSaldosAposTransferencia" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveAdicionarAlunoNaChamada - 2019.11.20 at 17h 35m 31s.xml">
-      <configuration name="AppTest.deveAdicionarAlunoNaChamada" configurationId="JUnit" />
+    <history-entry file="AppTeste_verificarSaldosAposTransferencia - 2019.11.21 at 17h 45m 23s.xml">
+      <configuration name="AppTeste.verificarSaldosAposTransferencia" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionAoTrocarProfessorParaNulo - 2019.11.21 at 15h 23m 25s.xml">
-      <configuration name="AppTest.deveJogarExceptionAoTrocarProfessorParaNulo" configurationId="JUnit" />
+    <history-entry file="AppTeste_verificarSaldosAposTransferencia - 2019.11.21 at 17h 45m 33s.xml">
+      <configuration name="AppTeste.verificarSaldosAposTransferencia" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula_21nov19_POO_ExercicioContaCorrente_in_main - 2019.11.21 at 15h 23m 37s.xml">
-      <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" configurationId="JUnit" />
+    <history-entry file="AppTeste_deveTerminarComSaldo500AoDepositar500 - 2019.11.21 at 17h 47m 40s.xml">
+      <configuration name="AppTeste.deveTerminarComSaldo500AoDepositar500" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula_21nov19_POO_ExercicioContaCorrente_in_main - 2019.11.21 at 15h 28m 41s.xml">
-      <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" configurationId="JUnit" />
+    <history-entry file="AppTeste_devePossuir3OperacoesNoHistorico - 2019.11.21 at 17h 52m 25s.xml">
+      <configuration name="AppTeste.devePossuir3OperacoesNoHistorico" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Aula_21nov19_POO_ExercicioContaCorrente_in_main - 2019.11.21 at 15h 38m 56s.xml">
-      <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" configurationId="JUnit" />
+    <history-entry file="AppTeste_deveCriarBancoPeloConstrutor - 2019.11.21 at 17h 56m 18s.xml">
+      <configuration name="AppTeste.deveCriarBancoPeloConstrutor" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -378,8 +421,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3293718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,35 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#deveCriarAlunoPorMeioDoConstrutor#0;class#AppTest#0" />
-            <element signature="method#deveCriarProfessorPorMeioDoConstrutor#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComNomeNuloDaMateria#0;class#AppTest#0" />
-            <element signature="method#deveCriarMateriaPorMeioDoConstrutor#0;class#AppTest#0" />
-            <element signature="method#deveCriarAulaPeloConstrutor#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComDataNulaNaAula#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComMateriaNulaNaAula#0;class#AppTest#0" />
-            <element signature="method#deveAdicionarAlunoNaChamada#0;class#AppTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -694,51 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="method#OperacoesDaConta#0;class#OperacoesDaConta#0" />
-            <element signature="method#OperacoesDaConta#1;class#OperacoesDaConta#0" />
-            <element signature="method#toString#0;class#OperacoesDaConta#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#adicionarContaCorrente#0;class#Banco#0" />
-            <element signature="method#retornarContaEspecificaAtravesDoId#0;class#Banco#0" />
-            <element signature="e#752#787#1" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#841#880#1" />
-            <element signature="e#940#941#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="59" column="69" lean-forward="true" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Conta#0;class#Conta#0" />
-            <element signature="method#depositarDinheiro#0;class#Conta#0" />
-            <element signature="method#mostrarExtrato#0;class#Conta#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="177">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
           <folding>
             <element signature="method#CampoNaoPodeSerNulo#0;class#CampoNaoPodeSerNulo#0" />
             <element signature="method#compararObjetoComNulo#0;class#CampoNaoPodeSerNulo#0" />
@@ -747,10 +724,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Conta#0;class#Conta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="306">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#adicionarContaCorrente#0;class#Banco#0" />
+            <element signature="method#retornarContaEspecificaAtravesDoId#0;class#Banco#0" />
+            <element signature="e#752#787#1" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#841#880#1" />
+            <element signature="e#935#936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+          <folding>
+            <element signature="method#OperacoesDaConta#0;class#OperacoesDaConta#0" />
+            <element signature="method#OperacoesDaConta#1;class#OperacoesDaConta#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="177" column="56" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#deveCriarAlunoPorMeioDoConstrutor#0;class#AppTest#0" />
+            <element signature="method#deveCriarProfessorPorMeioDoConstrutor#0;class#AppTest#0" />
+            <element signature="method#deveJogarExceptionComNomeNuloDaMateria#0;class#AppTest#0" />
+            <element signature="method#deveCriarMateriaPorMeioDoConstrutor#0;class#AppTest#0" />
+            <element signature="method#deveJogarExceptionComDataNulaNaAula#0;class#AppTest#0" />
+            <element signature="method#deveJogarExceptionComMateriaNulaNaAula#0;class#AppTest#0" />
+            <element signature="method#deveAdicionarAlunoNaChamada#0;class#AppTest#0" />
+            <element signature="method#deveJogarExceptionAoTrocarProfessorParaNulo#0;class#AppTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/AppTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#devePossuir3OperacoesNoHistorico#0;class#AppTeste#0" />
+            <element signature="method#deveJogarExceptionAoSacarComValor0#0;class#AppTeste#0" />
+            <element signature="method#deveJogarExceptionAoSacarMaisQueOSaldo#0;class#AppTeste#0" />
+            <element signature="method#deveTerminarComSaldo500AoSacar250#0;class#AppTeste#0" />
+            <element signature="method#testarDepositoComValor0#0;class#AppTeste#0" />
+            <element signature="method#deveTerminarComSaldo500AoDepositar500#0;class#AppTeste#0" />
+            <element signature="method#deveJogarExceptionAoTransferirMaisQueOSaldo#0;class#AppTeste#0" />
+            <element signature="method#deveJogarExceptionAoTransferirComValor0#0;class#AppTeste#0" />
+            <element signature="method#verificarSaldosAposTransferencia#0;class#AppTeste#0" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -29,7 +29,10 @@ public abstract class Conta {
         this.agencia = agencia;
     }
 
+
+
     public void depositarDinheiro(double quantia){
+        validar.verificarOperacaoComQuantia0(quantia);
         this.saldo += quantia;
         historico.add(new OperacoesDaConta(new Date(),getId(),getNomeTitular(),"Deposito",String.valueOf(quantia)));
 
@@ -37,6 +40,7 @@ public abstract class Conta {
 
     public void sacarDinheiro(double quantia){
         validar.compararQuantiaComSaldo(quantia,getSaldo());
+        validar.verificarOperacaoComQuantia0(quantia);
         this.saldo -=quantia;
         historico.add(new OperacoesDaConta(new Date(),this.id,this.nomeTitular,"Saque",String.valueOf(-quantia)));
     }
@@ -44,6 +48,7 @@ public abstract class Conta {
     public void transferir(Banco banco,String idContaDoFavorecido, double quantia){
         ContaCorrente conta;
         validar.compararQuantiaComSaldo(quantia,getSaldo());
+        validar.verificarOperacaoComQuantia0(quantia);
 
         conta = banco.retornarContaEspecificaAtravesDoId(idContaDoFavorecido);
         validar.compararObjetoComNulo(conta,"Essa conta nao existe!");
@@ -65,10 +70,14 @@ public abstract class Conta {
         System.out.println("Numero da Conta -  "+getId());
         System.out.println("Agencia - "+getAgencia());
         System.out.println("Nome Titular: "+getNomeTitular());
-        System.out.println("Saldo: "+getSaldo());
+        System.out.println("Saldo(R$): "+getSaldo());
     }
 
     public void mostrarExtrato(){
+        System.out.println("=================EXTRATO====================");
+        System.out.println("Conta Corrente: "+getId());
+        System.out.println("Nome Titular: "+getNomeTitular());
+        System.out.println("============================================");
         for (OperacoesDaConta a : historico){
             System.out.println(a);
         }
@@ -80,7 +89,7 @@ public abstract class Conta {
         return nomeTitular;
     }
 
-    private double getSaldo() {
+    public double getSaldo() {
         return saldo;
     }
 
@@ -90,6 +99,10 @@ public abstract class Conta {
 
     public String getAgencia() {
         return agencia;
+    }
+
+    public List<OperacoesDaConta> getHistorico() {
+        return historico;
     }
 
 

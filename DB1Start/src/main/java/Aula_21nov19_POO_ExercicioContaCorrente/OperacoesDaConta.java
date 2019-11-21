@@ -33,14 +33,14 @@ public class OperacoesDaConta {
 
     @Override
     public String toString() {
-        return "=================================\n" +
-                "dataOperacao=" + dataOperacao +
-                "\n id='" + id + '\'' +
-                "\n nomeTitular='" + nomeTitular + '\'' +
-                "\n tipoOperacao='" + tipoOperacao + '\'' +
-                "\n valor='" + valor + '\'' +
-                "\n idDestinario='" + idDestinario + '\'' +
-                "\n favorecido='" + favorecido + '\'' +
-                '}';
+        return  " Data Operacao: " + dataOperacao +
+                "\n Conta Titular: '" + id + '\'' +
+                "\n Nome Titular: '" + nomeTitular + '\'' +
+                "\n Tipo de Operacao: '" + tipoOperacao + '\'' +
+                "\n Valor(R$): '" + valor + '\'' +
+                "\n Conta Beneficiario: '" + idDestinario + '\'' +
+                "\n Nome Favorecido: '" + favorecido + '\'' +
+                '}'
+                +"\n------------------------------------------------";
     }
 }

@@ -21,7 +21,7 @@ public class Banco {
 
     public ContaCorrente retornarContaEspecificaAtravesDoId(String idDaConta){
         for(ContaCorrente conta : contasCorrentes){
-            if(conta.getId().equals(idDaConta)){
+            if(conta.getId() == (idDaConta)){
                 return conta;
             }
         }

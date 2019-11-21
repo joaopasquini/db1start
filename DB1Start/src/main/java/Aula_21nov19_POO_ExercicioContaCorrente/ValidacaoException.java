@@ -21,6 +21,12 @@ public class ValidacaoException extends RuntimeException {
         }
     }
 
+    public void verificarOperacaoComQuantia0(Double quantia){
+        if(quantia == 0){
+            throw new ValidacaoException("Quantia invalida!");
+        }
+    }
+
 
 
 }
