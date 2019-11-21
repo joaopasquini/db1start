@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_11nov19/AnotaçõesAula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_11nov19/AnotaçõesAula.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_11nov19/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_11nov19/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_11nov19/ExerciciosJava11nov.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_11nov19/ExerciciosJava11nov.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AnotacoesAula12nov.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19_Testes/AnotacoesAula12nov.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19_Testes/AppTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_12nov19_Testes/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_12nov19_Testes/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AnotaçõesAula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/AnotaçõesAula.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/AppTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_EstruturaDeDados/UsandoListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct/UsandoListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct_ExerciciosDeLista/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct_ExerciciosDeLista/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_18nov19_DataStruct_ResolucaoExerciciosDeLista/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_18nov19_DataStruct_UsandoSets/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Aula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Aula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Professor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,149 +42,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#881#882#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
-              <folding>
-                <element signature="method#Materia#0;class#Materia#0" />
-                <element signature="e#592#620#1" />
-                <element signature="e#1264#1265#0" expanded="true" />
-                <element signature="e#655#688#1" />
-                <element signature="e#1332#1333#0" expanded="true" />
-                <element signature="e#726#762#1" />
-                <element signature="e#1406#1407#0" expanded="true" />
-                <element signature="e#804#843#1" />
-                <element signature="e#1487#1488#0" expanded="true" />
-                <element signature="e#881#914#1" />
-                <element signature="e#1558#1559#0" expanded="true" />
-                <element signature="method#trocaProfessor#0;class#Materia#0" />
-                <element signature="method#toString#0;class#Materia#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Pessoa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-              <folding>
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aluno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="203" column="61" selection-start-line="203" selection-start-column="61" selection-end-line="203" selection-end-column="61" />
+            <state relative-caret-position="-34">
+              <caret line="45" column="60" lean-forward="true" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#deveCriarAlunoPorMeioDoConstrutor#0;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComEmailNulo#0;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComEmailNulo#1;class#AppTest#0" />
-                <element signature="method#deveCriarProfessorPorMeioDoConstrutor#0;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComEmailNuloEmAluno#1;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComNomeNuloEmAluno#1;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComNomeNuloDaMateria#0;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-                <element signature="method#deveCriarMateriaPorMeioDoConstrutor#0;class#AppTest#0" />
-                <element signature="method#deveAdicionarAlunoNaChamada#0;class#AppTest#0" />
-                <element signature="method#deveJogarExceptionAoTrocarProfessorParaNulo#0;class#AppTest#0" />
+                <element signature="method#depositarDinheiro#0;class#Conta#0" />
+                <element signature="method#sacarDinheiro#0;class#Conta#0" />
+                <element signature="method#mostrarExtrato#0;class#Conta#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="279">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1461#1462#0" expanded="true" />
-                <element signature="e#2058#2059#0" expanded="true" />
-                <element signature="e#2101#2102#0" expanded="true" />
-                <element signature="e#2170#2171#0" expanded="true" />
-                <element signature="e#2213#2214#0" expanded="true" />
-                <element signature="e#2446#2447#0" expanded="true" />
-                <element signature="e#2504#2505#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Professor.java">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="289">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -200,10 +139,17 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/App.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -218,7 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,13 +181,19 @@
               <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AulaJava_19nov19_POO_ResolvidoPeloProf" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_19nov19_POO_ResolvidoPeloProf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_21nov19_POO_ExercicioContaCorrente" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +201,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574279222838" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574359816073" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -286,13 +238,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.deveJogarExceptionAoTrocarProfessorParaNulo">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf.App" />
+      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.App" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_19nov19_POO_ResolvidoPeloProf.*" />
+          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +269,12 @@
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_19nov19_POO_ResolvidoPeloProf.*" />
+          <option name="PATTERN" value="Aula_19nov19_POO_ResolvidoPeloProf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf.AppTest" />
+      <option name="PACKAGE_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf" />
+      <option name="MAIN_CLASS_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf.AppTest" />
       <option name="METHOD_NAME" value="deveAdicionarAlunoNaChamada" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -333,59 +285,41 @@
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_19nov19_POO_ResolvidoPeloProf.*" />
+          <option name="PATTERN" value="Aula_19nov19_POO_ResolvidoPeloProf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf.AppTest" />
+      <option name="PACKAGE_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf" />
+      <option name="MAIN_CLASS_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf.AppTest" />
       <option name="METHOD_NAME" value="deveJogarExceptionAoTrocarProfessorParaNulo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.deveJogarExceptionComDataNulaNaAula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula_19nov19_POO_ResolvidoPeloProf in main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_19nov19_POO_ResolvidoPeloProf.*" />
+          <option name="PATTERN" value="Aula_19nov19_POO_ResolvidoPeloProf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf.AppTest" />
-      <option name="METHOD_NAME" value="deveJogarExceptionComDataNulaNaAula" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Aula_19nov19_POO_ResolvidoPeloProf" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.deveJogarExceptionComMateriaNulaNaAula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaJava_19nov19_POO_ResolvidoPeloProf.*" />
+          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf" />
-      <option name="MAIN_CLASS_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf.AppTest" />
-      <option name="METHOD_NAME" value="deveJogarExceptionComMateriaNulaNaAula" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AulaJava_19nov19_POO_ResolvidoPeloProf in main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AulaJava_19nov19_POO_ResolvidoPeloProf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="AulaJava_19nov19_POO_ResolvidoPeloProf" />
+      <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -393,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.Aula_21nov19_POO_ExercicioContaCorrente in main" />
         <item itemvalue="JUnit.AppTest.deveJogarExceptionAoTrocarProfessorParaNulo" />
         <item itemvalue="JUnit.AppTest.deveAdicionarAlunoNaChamada" />
-        <item itemvalue="JUnit.AulaJava_19nov19_POO_ResolvidoPeloProf in main" />
-        <item itemvalue="JUnit.AppTest.deveJogarExceptionComMateriaNulaNaAula" />
-        <item itemvalue="JUnit.AppTest.deveJogarExceptionComDataNulaNaAula" />
+        <item itemvalue="JUnit.Aula_19nov19_POO_ResolvidoPeloProf in main" />
       </list>
     </recent_temporary>
   </component>
@@ -415,18 +349,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_deveJogarExceptionComCargaHorariaNulaDaMateria - 2019.11.20 at 16h 53m 00s.xml">
-      <configuration name="AppTest.deveJogarExceptionComCargaHorariaNulaDaMateria" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionComCargaHorariaNulaDaMateria - 2019.11.20 at 16h 53m 13s.xml">
-      <configuration name="AppTest.deveJogarExceptionComCargaHorariaNulaDaMateria" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionComCargaHorariaNulaDaMateria - 2019.11.20 at 16h 53m 20s.xml">
-      <configuration name="AppTest.deveJogarExceptionComCargaHorariaNulaDaMateria" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_deveJogarExceptionComQuantidadeDeAulasNulaDaMateria - 2019.11.20 at 16h 54m 05s.xml">
-      <configuration name="AppTest.deveJogarExceptionComQuantidadeDeAulasNulaDaMateria" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest_deveJogarExceptionComProfessorNuloDaMateria - 2019.11.20 at 16h 54m 46s.xml">
       <configuration name="AppTest.deveJogarExceptionComProfessorNuloDaMateria" configurationId="JUnit" />
     </history-entry>
@@ -445,12 +367,24 @@
     <history-entry file="AppTest_deveAdicionarAlunoNaChamada - 2019.11.20 at 17h 35m 31s.xml">
       <configuration name="AppTest.deveAdicionarAlunoNaChamada" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTest_deveJogarExceptionAoTrocarProfessorParaNulo - 2019.11.21 at 15h 23m 25s.xml">
+      <configuration name="AppTest.deveJogarExceptionAoTrocarProfessorParaNulo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Aula_21nov19_POO_ExercicioContaCorrente_in_main - 2019.11.21 at 15h 23m 37s.xml">
+      <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Aula_21nov19_POO_ExercicioContaCorrente_in_main - 2019.11.21 at 15h 28m 41s.xml">
+      <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Aula_21nov19_POO_ExercicioContaCorrente_in_main - 2019.11.21 at 15h 38m 56s.xml">
+      <configuration name="Aula_21nov19_POO_ExercicioContaCorrente in main" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,7 +392,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -511,7 +445,7 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_13nov19_ResolucaoTestesProfs/AppTeste.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_13nov19_Testes_ResolucaoProfs/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -528,7 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_ResolucaoExerciciosDeLista/App.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_18nov19_DataStruct_ResolucaoExerciciosDeLista/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
           <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
@@ -543,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct_ExerciciosDeLista/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -554,7 +488,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_14nov19_ExerciciosDeLista/App.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_14nov19_DataStruct_ExerciciosDeLista/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="85" />
@@ -568,7 +502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Pessoa.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="25" />
@@ -585,7 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Professor.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Professor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
@@ -598,7 +532,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Materia.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Materia.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
@@ -615,7 +549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Aula.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Aula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-170">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
@@ -636,14 +570,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/App.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO/Aluno.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
@@ -657,13 +591,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/ProfessorTest.java" />
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Professor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/RuntimeException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -671,45 +598,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Pessoa.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Aula.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="425">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aluno.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Materia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="629">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="method#Materia#0;class#Materia#0" />
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
+            <element signature="method#trocaProfessor#0;class#Materia#0" />
+            <element signature="method#toString#0;class#Materia#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_18nov19_DataStruct_UsandoSets/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_18nov19_UsandoSets/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="1241">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1425#1426#0" expanded="true" />
@@ -724,72 +648,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/App.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Aula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/Materia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
-          <folding>
-            <element signature="method#Materia#0;class#Materia#0" />
-            <element signature="e#592#620#1" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#655#688#1" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#726#762#1" />
-            <element signature="e#1406#1407#0" expanded="true" />
-            <element signature="e#804#843#1" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#881#914#1" />
-            <element signature="e#1558#1559#0" expanded="true" />
-            <element signature="method#trocaProfessor#0;class#Materia#0" />
-            <element signature="method#toString#0;class#Materia#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/AulaJava_19nov19_POO_ResolvidoPeloProf/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="203" column="61" selection-start-line="203" selection-start-column="61" selection-end-line="203" selection-end-column="61" />
+        <state relative-caret-position="182">
+          <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#deveCriarAlunoPorMeioDoConstrutor#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComEmailNulo#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComEmailNulo#1;class#AppTest#0" />
             <element signature="method#deveCriarProfessorPorMeioDoConstrutor#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComEmailNuloEmAluno#1;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComNomeNuloEmAluno#1;class#AppTest#0" />
             <element signature="method#deveJogarExceptionComNomeNuloDaMateria#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionComNomeNuloDaMateria#1;class#AppTest#0" />
             <element signature="method#deveCriarMateriaPorMeioDoConstrutor#0;class#AppTest#0" />
+            <element signature="method#deveCriarAulaPeloConstrutor#0;class#AppTest#0" />
+            <element signature="method#deveJogarExceptionComDataNulaNaAula#0;class#AppTest#0" />
+            <element signature="method#deveJogarExceptionComMateriaNulaNaAula#0;class#AppTest#0" />
             <element signature="method#deveAdicionarAlunoNaChamada#0;class#AppTest#0" />
-            <element signature="method#deveJogarExceptionAoTrocarProfessorParaNulo#0;class#AppTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/CampoNaoPodeSerNulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ContaCorrente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_19nov19_POO_ResolvidoPeloProf/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/CampoNaoPodeSerNulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Banco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="45" column="60" lean-forward="true" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#depositarDinheiro#0;class#Conta#0" />
+            <element signature="method#sacarDinheiro#0;class#Conta#0" />
+            <element signature="method#mostrarExtrato#0;class#Conta#0" />
           </folding>
         </state>
       </provider>
