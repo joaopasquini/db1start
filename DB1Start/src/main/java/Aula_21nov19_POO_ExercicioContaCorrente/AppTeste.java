@@ -1,8 +1,9 @@
 package Aula_21nov19_POO_ExercicioContaCorrente;
 
-import com.sun.xml.internal.ws.policy.AssertionSet;
 import org.junit.Assert;
 import org.junit.Test;
+
+import java.util.Date;
 
 public class AppTeste {
 
@@ -14,6 +15,38 @@ public class AppTeste {
         Banco b01 = new Banco("DB1 Bank");
         String actual = b01.getNomeDoBanco();
         Assert.assertEquals(expected,actual);
+    }
+
+    @Test
+    public void deveCriarContaCorrentePeloConstrutor(){
+        ContaCorrente c01 = new ContaCorrente("001","1765","Maiko Cunha",500);
+        Assert.assertEquals("001",c01.getId());
+        Assert.assertEquals("1765",c01.getAgencia());
+        Assert.assertEquals("Maiko Cunha",c01.getNomeTitular());
+        Assert.assertEquals(500.0,c01.getSaldo(),0.0001);
+
+    }
+
+    @Test
+    public void deveCriarOperacaoDaContaPeloConstrutor(){
+        ContaCorrente c01 = new ContaCorrente("001","1765","Maiko Cunha",0);
+        ContaCorrente c02 = new ContaCorrente("002","1765","Igor",0);
+        Date data = new Date();
+        OperacoesDaConta op1 = new OperacoesDaConta(data,
+                                                    c01.getId(),
+                                                    c01.getNomeTitular(),
+                                                    "Transferencia",
+                                                    c02.getNomeTitular(),
+                                                    c02.getId(),
+                                                    String.valueOf(-500.0));
+        Assert.assertEquals(data,op1.getDataOperacao());
+        Assert.assertEquals(c01.getId(),op1.getId());
+        Assert.assertEquals(c01.getNomeTitular(),op1.getNomeTitular());
+        Assert.assertEquals("Transferencia",op1.getTipoOperacao());
+        Assert.assertEquals(c02.getNomeTitular(),op1.getFavorecido());
+        Assert.assertEquals(c02.getId(),op1.getIdFavorecido());
+        Assert.assertEquals("-500.0",op1.getValor());
+
     }
 
 

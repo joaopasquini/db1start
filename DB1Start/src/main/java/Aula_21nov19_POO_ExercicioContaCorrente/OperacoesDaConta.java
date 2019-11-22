@@ -9,7 +9,7 @@ public class OperacoesDaConta {
     private String nomeTitular;
     private String tipoOperacao;
     private String favorecido;
-    private String idDestinario;
+    private String idFavorecido;
     private String valor;
 
 
@@ -21,13 +21,13 @@ public class OperacoesDaConta {
         this.valor = valor;
     }
 
-    public OperacoesDaConta(Date dataOperacao, String id, String nomeTitular, String tipoOperacao, String favorecido, String idDestinario, String valor) {
+    public OperacoesDaConta(Date dataOperacao, String id, String nomeTitular, String tipoOperacao, String favorecido, String idFavorecido, String valor) {
         this.dataOperacao = dataOperacao;
         this.id = id;
         this.nomeTitular = nomeTitular;
         this.tipoOperacao = tipoOperacao;
         this.favorecido = favorecido;
-        this.idDestinario = idDestinario;
+        this.idFavorecido = idFavorecido;
         this.valor = valor;
     }
 
@@ -38,9 +38,37 @@ public class OperacoesDaConta {
                 "\n Nome Titular: '" + nomeTitular + '\'' +
                 "\n Tipo de Operacao: '" + tipoOperacao + '\'' +
                 "\n Valor(R$): '" + valor + '\'' +
-                "\n Conta Beneficiario: '" + idDestinario + '\'' +
+                "\n Conta Beneficiario: '" + idFavorecido + '\'' +
                 "\n Nome Favorecido: '" + favorecido + '\'' +
                 '}'
                 +"\n------------------------------------------------";
+    }
+
+    public Date getDataOperacao() {
+        return dataOperacao;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public String getNomeTitular() {
+        return nomeTitular;
+    }
+
+    public String getTipoOperacao() {
+        return tipoOperacao;
+    }
+
+    public String getFavorecido() {
+        return favorecido;
+    }
+
+    public String getIdFavorecido() {
+        return idFavorecido;
+    }
+
+    public String getValor() {
+        return valor;
     }
 }
