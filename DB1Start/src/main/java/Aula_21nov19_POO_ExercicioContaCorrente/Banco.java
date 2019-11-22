@@ -11,6 +11,7 @@ public class Banco {
     ValidacaoException validar = new ValidacaoException();
 
     public Banco(String nome){
+        validar.compararObjetoComNulo(nome,"Nome do banco nao pode ser nulo!");
         this.nomeDoBanco = nome;
     }
 

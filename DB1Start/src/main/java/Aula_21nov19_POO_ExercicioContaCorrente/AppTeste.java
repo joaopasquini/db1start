@@ -49,7 +49,41 @@ public class AppTeste {
 
     }
 
+    @Test
+    public void deveJogarExceptionAoCriarContaCorrenteComIdNulo(){
+        try {
+            ContaCorrente c01 = new ContaCorrente(null, "1765", "Maiko Cunha", 0);
+        } catch(ValidacaoException exception){
+            Assert.assertEquals("Id nao pode ser nulo!",exception.getMessage());
+        }
+    }
 
+    @Test
+    public void deveJogarExceptionAoCriarContaCorrenteComAgenciaNula(){
+        try {
+            ContaCorrente c01 = new ContaCorrente("001", null, "Maiko Cunha", 0);
+        } catch(ValidacaoException exception){
+            Assert.assertEquals("Agencia nao pode ser nula!",exception.getMessage());
+        }
+    }
+
+    @Test
+    public void deveJogarExceptionAoCriarContaCorrenteComNomeNulo(){
+        try {
+            ContaCorrente c01 = new ContaCorrente("001", "1765", null, 0);
+        } catch(ValidacaoException exception){
+            Assert.assertEquals("Nome do Titular nao pode ser nulo!",exception.getMessage());
+        }
+    }
+
+    @Test
+    public void deveJogarExceptionAoCriarBancoComNomeNulo(){
+        try{
+            Banco b01 = new Banco(null);
+        } catch (ValidacaoException exception){
+            Assert.assertEquals("Nome do banco nao pode ser nulo!",exception.getMessage());
+        }
+    }
 
 
     //Testes de Historico
@@ -156,6 +190,19 @@ public class AppTeste {
             c01.transferir(b01, c02.getId(), 0);
         } catch (RuntimeException naoPodeSer0){
             Assert.assertEquals("Quantia invalida!",naoPodeSer0.getMessage());
+        }
+    }
+
+    @Test
+    public void deveJogarExceptionAoTransferirParaUmaContaQueNaoExiste() {
+        Banco b01 = new Banco("DB1 Bank");
+        ContaCorrente c01 = new ContaCorrente("001", "1765", "Maiko Cunha", 500);
+        b01.adicionarContaCorrente(c01);
+        try {
+            c01.transferir(b01, "002", 250);
+
+        } catch (ValidacaoException exception){
+            Assert.assertEquals("Essa conta nao existe!",exception.getMessage());
         }
     }
 
