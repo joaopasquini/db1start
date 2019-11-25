@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7716fe9-2688-4761-b2e1-897e5f6cdbab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/ContaCorrente.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +12,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/ContaCorrente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+            <state relative-caret-position="765">
+              <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#depositar#0;class#ContaCorrente#0" />
                 <element signature="method#sacar#0;class#ContaCorrente#0" />
-                <element signature="method#transferir#0;class#ContaCorrente#0" />
-                <element signature="method#ContaCorrente#0;class#ContaCorrente#0" />
+                <element signature="e#1771#1772#0" expanded="true" />
+                <element signature="e#1792#1793#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_22nov19_PalestraSobreTestes/lalala.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3162">
+              <caret line="222" column="9" selection-start-line="222" selection-start-column="9" selection-end-line="222" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/SaldoInsuficienteException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -55,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Agencia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="371">
               <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <element signature="e#600#601#0" expanded="true" />
@@ -121,7 +148,10 @@
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Agencia.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Cliente.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Operacao.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_22nov19_PalestraSobreTestes/lalala.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/App.java" />
         <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/SaldoInsuficienteException.java" />
       </list>
     </option>
   </component>
@@ -158,7 +188,7 @@
               <item name="db1start" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula_25nov19_ContaCorrenteResolvido" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_22nov19_PalestraSobreTestes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +201,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574700324274" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574702100339" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -209,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="JUnit.Aula_25nov19_ContaCorrenteResolvido in main">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.App" />
       <module name="main" />
@@ -234,22 +264,6 @@
       <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
       <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
       <option name="METHOD_NAME" value="deveJogarExceptionAoCriarBancoComNomeNulo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTeste.deveJogarExceptionAoCriarContaCorrenteComAgenciaNula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula_21nov19_POO_ExercicioContaCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente" />
-      <option name="MAIN_CLASS_NAME" value="Aula_21nov19_POO_ExercicioContaCorrente.AppTeste" />
-      <option name="METHOD_NAME" value="deveJogarExceptionAoCriarContaCorrenteComAgenciaNula" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -287,13 +301,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula_25nov19_ContaCorrenteResolvido in main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula_25nov19_ContaCorrenteResolvido.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Aula_25nov19_ContaCorrenteResolvido" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Aula_25nov19_ContaCorrenteResolvido in main" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AppTeste.deveJogarExceptionAoTransferirParaUmaContaQueNaoExiste" />
         <item itemvalue="JUnit.AppTeste.deveJogarExceptionAoCriarBancoComNomeNulo" />
         <item itemvalue="JUnit.AppTeste.deveJogarExceptionAoCriarContaCorrenteComNomeNulo" />
-        <item itemvalue="JUnit.AppTeste.deveJogarExceptionAoCriarContaCorrenteComAgenciaNula" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +372,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -681,13 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/OperacoesDaConta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -753,22 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Agencia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -789,17 +793,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/ContaCorrente.java">
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/Agencia.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
-          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/ContaCorrente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#depositar#0;class#ContaCorrente#0" />
             <element signature="method#sacar#0;class#ContaCorrente#0" />
-            <element signature="method#transferir#0;class#ContaCorrente#0" />
-            <element signature="method#ContaCorrente#0;class#ContaCorrente#0" />
+            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_22nov19_PalestraSobreTestes/lalala.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="222" column="9" selection-start-line="222" selection-start-column="9" selection-end-line="222" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_21nov19_POO_ExercicioContaCorrente/ValidacaoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB1Start/src/main/java/Aula_25nov19_ContaCorrenteResolvido/SaldoInsuficienteException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>

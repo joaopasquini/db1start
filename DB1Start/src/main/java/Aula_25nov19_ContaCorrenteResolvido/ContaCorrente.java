@@ -51,15 +51,20 @@ public class ContaCorrente {
             throw new RuntimeException("");
         }
         from.sacar(valor);
+        this.depositar(valor);
         this.operacoes.add(new Operacao("TRANSFERENCIA",valor));
     }
 
-    public ContaCorrente(Agencia agencia, String numero, String digito, Cliente cliente, Double saldo) {
+    public ContaCorrente(Agencia agencia, String numero, String digito, Cliente cliente) {
         this.agencia = agencia;
         this.numero = numero;
         this.digito = digito;
         this.cliente = cliente;
         this.saldo = 0.0;
         this.operacoes = new ArrayList<Operacao>();
+    }
+
+    public List<Operacao> getExtrato(){
+        return this.operacoes;
     }
 }

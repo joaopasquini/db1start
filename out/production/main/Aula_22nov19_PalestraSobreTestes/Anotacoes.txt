@@ -1,0 +1,38 @@
+Aula 22nov19
+
+Testes de Software
+
+- Diferença entre usar e testar um sistema.
+- Pensar em cenários críticos que podem desencadear um comportamento nao esperado no software
+- Testes possuem plano de carreiro semelhante aos desenvolvedores.
+- Nao subestimar o usuário, eles sempre acham um jeito de usar o sistema de uma forma que o sistema não foi projetado para suportar.
+- Testers precisam estudar as regras de negócio do projeto para entender melhor a área e os conceitos a fim de elaborar testes mais precisos. Ex. Noções de Direito.
+- As avaliações de teste são proporcionalmente críticas e rigorosas a seriedade do problema/domínio. ex: Testes para um aplicativo de delivery vs Testes para um sistema de avião.
+- Os testes fazem parte de um processo que quanto maior o esforço aplicado, maior será a agregação de qualidade no produto final a ser entregue para o cliente.
+- Em um ambiente de testes, a utilização de s automatizados de testes são essenciais. Evitar ao máximo repetição de tarefas.
+- Comunidades de Testers, PodCast: TestCast
+- Existe uma grande variedade de testes com variadas finalidades
+
+Manifesto Tests
+- Prevenir bugs MAIS QUE encontrar bugs: Quanto mais cedo encontrados os bugs, menos tempo e dinheiro são desperdiçados no projeto pois são evitadas complicações na fase de produção
+- Entender o teste MAIS QUE checar a funcionalidade
+- Time responsável pela qualidade MAIS QUE responsabilidade do testador
+ 
+
+Starting
+- Conhecimento Básico/Intermediario de Ingles
+- Entendimento dos Conceitos Básicos de Testes de Software. Curso Gratis Coursera
+- GitHub Concrete Solutions, vários matériais sobre conceitos/metodologias/tecnologias/indicações de Teste de Software
+- Certificações Especificas de Testes(super necessárias para vagas e carreira). Ex CTFL(Certified Tester Foundation Level)
+- Orgão que realiza certificações de Quatilidade de Software : BSTQB(Brazilian Software Testing Qualifications Board)
+
+Como é na DB1?
+- Cada unidade possui sua propria equipe de testers
+- IT Services(Factory) possui uma equipe de Testers para todos os projetos
+- Testes manuais
+- Testes automaticos de Interface
+- Em alguns casos, realização de testes de carga e perfomance e API.
+- Planejamento em Sprints
+- Elaboração do Roteiro de Testes
+- Ferramentas: Visual Studio Team Services, TestLink
+
